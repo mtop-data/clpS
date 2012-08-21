@@ -1,0 +1,239 @@
+#NEXUS
+
+[ID: 7031425854]
+begin taxa;
+	dimensions ntax=110;
+	taxlabels
+		Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_3792
+		Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_3450
+		Nostoc_sp_PCC_7120_gnl_BL_ORD_ID_714
+		Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3650
+		Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_1770
+		Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_1627
+		Lyngbya_sp_CCY_8106_gnl_BL_ORD_ID_4005
+		Oscillatoria_sp_PCC_6506_gnl_BL_ORD_ID_1058
+		Cyanothece_PCC_7424_gnl_BL_ORD_ID_4383
+		Microcystis_aeruginosa_NIES_843_gnl_BL_ORD_ID_703
+		Microcoleus_chthonoplastes_PCC_7420_gnl_BL_ORD_ID_3381
+		Cylindrospermopsis_raciborskii_CS_505_gnl_BL_ORD_ID_3110
+		Raphidiopsis_brookii_D9_gnl_BL_ORD_ID_516
+		Thermosynechococcus_elongatus_BP_1_gnl_BL_ORD_ID_1087
+		Synechocystis_sp_PCC_6803_gnl_BL_ORD_ID_1103
+		Synechococcus_sp_PCC_7002_gnl_BL_ORD_ID_2207
+		Cyanothece_sp_BH68_ATCC_51142_gnl_BL_ORD_ID_3651
+		Trichodesmium_erythraeum_IMS101_gnl_BL_ORD_ID_3325
+		ClpS2_Synechococcus_7942_ClpS2
+		Cyanothece_PCC_7425_gnl_BL_ORD_ID_3769
+		Cyanobacterium_sp_UCYN_A_gnl_BL_ORD_ID_272
+		Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2237
+		Synechococcus_sp_JA_2_3B_a2_13_gnl_BL_ORD_ID_2497
+		Prochlorococcus_marinus_MIT_9313_gnl_BL_ORD_ID_672
+		Synechococcus_sp_WH_8109_gnl_BL_ORD_ID_1922
+		Synechococcus_WH_8102_gnl_BL_ORD_ID_1299
+		Synechococcus_sp_CC9902_gnl_BL_ORD_ID_1044
+		Synechococcus_sp_RS9916_gnl_BL_ORD_ID_1876
+		Synechococcus_WH_7803_gnl_BL_ORD_ID_1209
+		Prochlorococcus_sp_CC9311_gnl_BL_ORD_ID_1389
+		Synechococcus_sp_RS9917_gnl_BL_ORD_ID_1372
+		Synechococcus_sp_CB0205_gnl_BL_ORD_ID_2119
+		Prochlorococcus_marinus_MIT_9312_gnl_BL_ORD_ID_939
+		Prochlorococcus_marinus_MIT_9211_gnl_BL_ORD_ID_1514
+		Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_5473
+		Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_1891
+		Nostoc_sp_PCC_7120_gnl_BL_ORD_ID_4631
+		Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_2031
+		Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3476
+		Cylindrospermopsis_raciborskii_CS_505_gnl_BL_ORD_ID_496
+		Raphidiopsis_brookii_D9_gnl_BL_ORD_ID_1510
+		Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_6367
+		Lyngbya_sp_CCY_8106_gnl_BL_ORD_ID_3908
+		Microcoleus_chthonoplastes_PCC_7420_gnl_BL_ORD_ID_4785
+		Leptolyngbya_valderiana_BDU_20041_gnl_BL_ORD_ID_6
+		Cyanothece_PCC_7425_gnl_BL_ORD_ID_3320
+		Oscillatoria_sp_PCC_6506_gnl_BL_ORD_ID_4778
+		Thermosynechococcus_elongatus_BP_1_gnl_BL_ORD_ID_210
+		Trichodesmium_erythraeum_IMS101_gnl_BL_ORD_ID_952
+		Cyanothece_PCC_7424_gnl_BL_ORD_ID_1601
+		Microcystis_aeruginosa_NIES_843_gnl_BL_ORD_ID_5244
+		Synechococcus_sp_PCC_7002_gnl_BL_ORD_ID_2405
+		Cyanothece_sp_BH68_ATCC_51142_gnl_BL_ORD_ID_2328
+		Cyanobacterium_sp_UCYN_A_gnl_BL_ORD_ID_939
+		Synechocystis_sp_PCC_6803_gnl_BL_ORD_ID_1854
+		ClpS1_Synechococcus_7942_ClpS1
+		Synechococcus_sp_JA_2_3B_a2_13_gnl_BL_ORD_ID_664
+		Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_745
+		Prochlorococcus_marinus_MIT_9313_gnl_BL_ORD_ID_1789
+		Synechococcus_sp_RS9916_gnl_BL_ORD_ID_2779
+		Synechococcus_sp_RS9917_gnl_BL_ORD_ID_1996
+		Prochlorococcus_sp_CC9311_gnl_BL_ORD_ID_363
+		Synechococcus_WH_7803_gnl_BL_ORD_ID_368
+		Synechococcus_WH_8102_gnl_BL_ORD_ID_2141
+		Synechococcus_sp_CC9902_gnl_BL_ORD_ID_2014
+		Synechococcus_sp_WH_8109_gnl_BL_ORD_ID_198
+		Synechococcus_sp_CB0205_gnl_BL_ORD_ID_783
+		Prochlorococcus_marinus_MIT_9211_gnl_BL_ORD_ID_1621
+		Prochlorococcus_marinus_MIT_9312_gnl_BL_ORD_ID_1590
+		Prunus_persica_gnl_BL_ORD_ID_10981
+		Capsella_rubella_gnl_BL_ORD_ID_21193
+		Brassica_rapa_gnl_BL_ORD_ID_16356
+		Prunus_persica_gnl_BL_ORD_ID_19291
+		Glycine_max_gnl_BL_ORD_ID_3555
+		Ricinus_communis_gnl_BL_ORD_ID_3780
+		Carica_papaya_gnl_BL_ORD_ID_311
+		Populus_trichocarpa_gnl_BL_ORD_ID_43343
+		Medicago_truncatula_gnl_BL_ORD_ID_34263
+		Vitis_vinifera_gnl_BL_ORD_ID_4262
+		Aquilegia_coerulea_gnl_BL_ORD_ID_33124
+		Glycine_max_gnl_BL_ORD_ID_17909
+		Selaginella_moellendorffii_gnl_BL_ORD_ID_14527
+		Panucum_virgatum_gnl_BL_ORD_ID_14345
+		Setaria_italica_gnl_BL_ORD_ID_19258
+		Sorghum_bicolor_gnl_BL_ORD_ID_22153
+		Zea_mays_gnl_BL_ORD_ID_43912
+		Oryza_sativa_gnl_BL_ORD_ID_6727
+		Brachypodium_distachyon_gnl_BL_ORD_ID_24208
+		Vitis_vinifera_gnl_BL_ORD_ID_7060
+		Physcomitrella_patens_gnl_BL_ORD_ID_33457
+		Physcomitrella_patens_gnl_BL_ORD_ID_6354
+		Volvox_carteri_gnl_BL_ORD_ID_608
+		Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_9005
+		Cyanophora_paradoxa_gnl_BL_ORD_ID_27119
+		Cyanidioschyzon_merolae_gnl_BL_ORD_ID_2238
+		Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2530
+		Cyanophora_paradoxa_gnl_BL_ORD_ID_23599
+		Carica_papaya_gnl_BL_ORD_ID_24571
+		Populus_trichocarpa_gnl_BL_ORD_ID_33308
+		Populus_trichocarpa_gnl_BL_ORD_ID_42340
+		Oryza_sativa_gnl_BL_ORD_ID_22109
+		Setaria_italica_gnl_BL_ORD_ID_2316
+		Physcomitrella_patens_gnl_BL_ORD_ID_17725
+		Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_17107
+		Volvox_carteri_gnl_BL_ORD_ID_2065
+		Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_1197
+		Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_3127
+		Escherichia_coli_UTI89_gnl_BL_ORD_ID_1000
+		Streptomyces_avermitilis_MA_4680_gnl_BL_ORD_ID_5165
+		Chlorobium_tepidum_TLS_gnl_BL_ORD_ID_2204
+		;end;
+begin trees;
+	translate
+		1	Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_3792,
+		2	Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_3450,
+		3	Nostoc_sp_PCC_7120_gnl_BL_ORD_ID_714,
+		4	Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3650,
+		5	Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_1770,
+		6	Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_1627,
+		7	Lyngbya_sp_CCY_8106_gnl_BL_ORD_ID_4005,
+		8	Oscillatoria_sp_PCC_6506_gnl_BL_ORD_ID_1058,
+		9	Cyanothece_PCC_7424_gnl_BL_ORD_ID_4383,
+		10	Microcystis_aeruginosa_NIES_843_gnl_BL_ORD_ID_703,
+		11	Microcoleus_chthonoplastes_PCC_7420_gnl_BL_ORD_ID_3381,
+		12	Cylindrospermopsis_raciborskii_CS_505_gnl_BL_ORD_ID_3110,
+		13	Raphidiopsis_brookii_D9_gnl_BL_ORD_ID_516,
+		14	Thermosynechococcus_elongatus_BP_1_gnl_BL_ORD_ID_1087,
+		15	Synechocystis_sp_PCC_6803_gnl_BL_ORD_ID_1103,
+		16	Synechococcus_sp_PCC_7002_gnl_BL_ORD_ID_2207,
+		17	Cyanothece_sp_BH68_ATCC_51142_gnl_BL_ORD_ID_3651,
+		18	Trichodesmium_erythraeum_IMS101_gnl_BL_ORD_ID_3325,
+		19	ClpS2_Synechococcus_7942_ClpS2,
+		20	Cyanothece_PCC_7425_gnl_BL_ORD_ID_3769,
+		21	Cyanobacterium_sp_UCYN_A_gnl_BL_ORD_ID_272,
+		22	Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2237,
+		23	Synechococcus_sp_JA_2_3B_a2_13_gnl_BL_ORD_ID_2497,
+		24	Prochlorococcus_marinus_MIT_9313_gnl_BL_ORD_ID_672,
+		25	Synechococcus_sp_WH_8109_gnl_BL_ORD_ID_1922,
+		26	Synechococcus_WH_8102_gnl_BL_ORD_ID_1299,
+		27	Synechococcus_sp_CC9902_gnl_BL_ORD_ID_1044,
+		28	Synechococcus_sp_RS9916_gnl_BL_ORD_ID_1876,
+		29	Synechococcus_WH_7803_gnl_BL_ORD_ID_1209,
+		30	Prochlorococcus_sp_CC9311_gnl_BL_ORD_ID_1389,
+		31	Synechococcus_sp_RS9917_gnl_BL_ORD_ID_1372,
+		32	Synechococcus_sp_CB0205_gnl_BL_ORD_ID_2119,
+		33	Prochlorococcus_marinus_MIT_9312_gnl_BL_ORD_ID_939,
+		34	Prochlorococcus_marinus_MIT_9211_gnl_BL_ORD_ID_1514,
+		35	Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_5473,
+		36	Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_1891,
+		37	Nostoc_sp_PCC_7120_gnl_BL_ORD_ID_4631,
+		38	Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_2031,
+		39	Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3476,
+		40	Cylindrospermopsis_raciborskii_CS_505_gnl_BL_ORD_ID_496,
+		41	Raphidiopsis_brookii_D9_gnl_BL_ORD_ID_1510,
+		42	Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_6367,
+		43	Lyngbya_sp_CCY_8106_gnl_BL_ORD_ID_3908,
+		44	Microcoleus_chthonoplastes_PCC_7420_gnl_BL_ORD_ID_4785,
+		45	Leptolyngbya_valderiana_BDU_20041_gnl_BL_ORD_ID_6,
+		46	Cyanothece_PCC_7425_gnl_BL_ORD_ID_3320,
+		47	Oscillatoria_sp_PCC_6506_gnl_BL_ORD_ID_4778,
+		48	Thermosynechococcus_elongatus_BP_1_gnl_BL_ORD_ID_210,
+		49	Trichodesmium_erythraeum_IMS101_gnl_BL_ORD_ID_952,
+		50	Cyanothece_PCC_7424_gnl_BL_ORD_ID_1601,
+		51	Microcystis_aeruginosa_NIES_843_gnl_BL_ORD_ID_5244,
+		52	Synechococcus_sp_PCC_7002_gnl_BL_ORD_ID_2405,
+		53	Cyanothece_sp_BH68_ATCC_51142_gnl_BL_ORD_ID_2328,
+		54	Cyanobacterium_sp_UCYN_A_gnl_BL_ORD_ID_939,
+		55	Synechocystis_sp_PCC_6803_gnl_BL_ORD_ID_1854,
+		56	ClpS1_Synechococcus_7942_ClpS1,
+		57	Synechococcus_sp_JA_2_3B_a2_13_gnl_BL_ORD_ID_664,
+		58	Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_745,
+		59	Prochlorococcus_marinus_MIT_9313_gnl_BL_ORD_ID_1789,
+		60	Synechococcus_sp_RS9916_gnl_BL_ORD_ID_2779,
+		61	Synechococcus_sp_RS9917_gnl_BL_ORD_ID_1996,
+		62	Prochlorococcus_sp_CC9311_gnl_BL_ORD_ID_363,
+		63	Synechococcus_WH_7803_gnl_BL_ORD_ID_368,
+		64	Synechococcus_WH_8102_gnl_BL_ORD_ID_2141,
+		65	Synechococcus_sp_CC9902_gnl_BL_ORD_ID_2014,
+		66	Synechococcus_sp_WH_8109_gnl_BL_ORD_ID_198,
+		67	Synechococcus_sp_CB0205_gnl_BL_ORD_ID_783,
+		68	Prochlorococcus_marinus_MIT_9211_gnl_BL_ORD_ID_1621,
+		69	Prochlorococcus_marinus_MIT_9312_gnl_BL_ORD_ID_1590,
+		70	Prunus_persica_gnl_BL_ORD_ID_10981,
+		71	Capsella_rubella_gnl_BL_ORD_ID_21193,
+		72	Brassica_rapa_gnl_BL_ORD_ID_16356,
+		73	Prunus_persica_gnl_BL_ORD_ID_19291,
+		74	Glycine_max_gnl_BL_ORD_ID_3555,
+		75	Ricinus_communis_gnl_BL_ORD_ID_3780,
+		76	Carica_papaya_gnl_BL_ORD_ID_311,
+		77	Populus_trichocarpa_gnl_BL_ORD_ID_43343,
+		78	Medicago_truncatula_gnl_BL_ORD_ID_34263,
+		79	Vitis_vinifera_gnl_BL_ORD_ID_4262,
+		80	Aquilegia_coerulea_gnl_BL_ORD_ID_33124,
+		81	Glycine_max_gnl_BL_ORD_ID_17909,
+		82	Selaginella_moellendorffii_gnl_BL_ORD_ID_14527,
+		83	Panucum_virgatum_gnl_BL_ORD_ID_14345,
+		84	Setaria_italica_gnl_BL_ORD_ID_19258,
+		85	Sorghum_bicolor_gnl_BL_ORD_ID_22153,
+		86	Zea_mays_gnl_BL_ORD_ID_43912,
+		87	Oryza_sativa_gnl_BL_ORD_ID_6727,
+		88	Brachypodium_distachyon_gnl_BL_ORD_ID_24208,
+		89	Vitis_vinifera_gnl_BL_ORD_ID_7060,
+		90	Physcomitrella_patens_gnl_BL_ORD_ID_33457,
+		91	Physcomitrella_patens_gnl_BL_ORD_ID_6354,
+		92	Volvox_carteri_gnl_BL_ORD_ID_608,
+		93	Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_9005,
+		94	Cyanophora_paradoxa_gnl_BL_ORD_ID_27119,
+		95	Cyanidioschyzon_merolae_gnl_BL_ORD_ID_2238,
+		96	Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2530,
+		97	Cyanophora_paradoxa_gnl_BL_ORD_ID_23599,
+		98	Carica_papaya_gnl_BL_ORD_ID_24571,
+		99	Populus_trichocarpa_gnl_BL_ORD_ID_33308,
+		100	Populus_trichocarpa_gnl_BL_ORD_ID_42340,
+		101	Oryza_sativa_gnl_BL_ORD_ID_22109,
+		102	Setaria_italica_gnl_BL_ORD_ID_2316,
+		103	Physcomitrella_patens_gnl_BL_ORD_ID_17725,
+		104	Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_17107,
+		105	Volvox_carteri_gnl_BL_ORD_ID_2065,
+		106	Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_1197,
+		107	Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_3127,
+		108	Escherichia_coli_UTI89_gnl_BL_ORD_ID_1000,
+		109	Streptomyces_avermitilis_MA_4680_gnl_BL_ORD_ID_5165,
+		110	Chlorobium_tepidum_TLS_gnl_BL_ORD_ID_2204
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (1:0.199702,20:0.199880,(((((2:0.016400,3:0.008308)1.00:0.060253,4:0.068347)0.98:0.045348,5:0.087155)0.96:0.049157,6:0.081776,7:0.092581,8:0.043897,9:0.075827,10:0.096089,11:0.142679,(12:0.015429,13:0.034016)0.87:0.052489,14:0.136017,15:0.158034,(17:0.057041,21:0.308629)0.99:0.152249,18:0.203795,(19:0.214287,23:0.228554)0.76:0.172871,22:0.210922,((((24:0.089629,((25:0.080416,26:0.079323)0.74:0.024820,27:0.087600)0.69:0.064085)0.63:0.047852,28:0.130776)0.55:0.038357,(29:0.120363,(30:0.074854,96:0.742390)0.70:0.145430)0.67:0.068419,31:0.159222,(33:0.204804,34:0.140571)1.00:0.345889)0.71:0.169219,32:0.215296)0.71:0.312642,(((((35:0.078316,(46:0.047805,48:0.130486)0.97:0.103640)0.58:0.033694,(((36:0.009435,37:0.018564)0.83:0.026145,(38:0.027921,39:0.046071)1.00:0.050307)0.78:0.039121,((40:0.029404,41:0.018561)1.00:0.079881,42:0.119579)0.73:0.035420,43:0.035709)0.78:0.042456,44:0.055941,47:0.077639,(49:0.068958,(56:0.188972,(((((((((59:0.107348,60:0.052143)0.88:0.051638,62:0.071335)0.77:0.061653,61:0.078661)0.96:0.072789,64:0.039840)0.91:0.055044,63:0.035532)0.75:0.039103,(65:0.035444,66:0.114530)0.95:0.052726)0.82:0.071291,(68:0.130439,69:0.278152)0.95:0.087118)0.54:0.080381,67:0.085330)0.91:0.184819,94:0.500836)1.00:0.421457)0.77:0.079056)0.81:0.041334)0.72:0.044224,(50:0.066930,51:0.081918,52:0.067993,(53:0.010787,54:0.223376)0.98:0.036472,55:0.162739)0.88:0.052238)0.72:0.070251,45:0.062029)0.67:0.146541,57:0.166052,58:0.275692,((((((((70:0.103781,81:0.168689)0.90:0.058423,79:0.103171)0.87:0.043243,((((73:0.063880,(74:0.064050,78:0.064890)0.89:0.067458)0.85:0.027788,(75:0.012013,76:0.044631)0.97:0.040396)0.60:0.015975,77:0.082131)0.75:0.035780,89:0.056243)0.70:0.036271,(80:0.051271,((((83:0.105803,84:0.014356)0.77:0.019166,(85:0.011951,86:0.022625)0.90:0.019116)0.93:0.049709,88:0.124535)0.70:0.043026,87:0.058250)1.00:0.219086)0.79:0.060150)0.56:0.070249,(71:0.039002,72:0.040361)0.91:0.096272)0.56:0.105675,82:0.081779)0.61:0.115172,(90:0.127815,91:0.056591)1.00:0.226881)0.93:0.127753,(92:0.210179,93:0.157470)1.00:0.423204)0.63:0.141225,97:0.617316)0.70:0.183355,95:0.817639,(((98:0.180697,(99:0.079704,100:0.093693)1.00:0.183032)1.00:0.199993,(101:0.089377,102:0.140512)1.00:0.298910)0.99:0.205908,(103:0.360725,(104:0.209258,105:0.302070)1.00:1.012012)0.54:0.107666)1.00:0.579074,((106:0.358966,(107:0.450033,108:0.273862)0.97:0.191427)1.00:0.350699,109:0.684721)0.77:0.254292,110:1.064650)0.57:0.440545)0.92:0.069995,16:0.143379)0.67:0.060582);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (mean of the posterior probability density).]
+   tree con_50_majrule = (1:0.199702,20:0.199880,(((((2:0.016400,3:0.008308):0.060253,4:0.068347):0.045348,5:0.087155):0.049157,6:0.081776,7:0.092581,8:0.043897,9:0.075827,10:0.096089,11:0.142679,(12:0.015429,13:0.034016):0.052489,14:0.136017,15:0.158034,(17:0.057041,21:0.308629):0.152249,18:0.203795,(19:0.214287,23:0.228554):0.172871,22:0.210922,((((24:0.089629,((25:0.080416,26:0.079323):0.024820,27:0.087600):0.064085):0.047852,28:0.130776):0.038357,(29:0.120363,(30:0.074854,96:0.742390):0.145430):0.068419,31:0.159222,(33:0.204804,34:0.140571):0.345889):0.169219,32:0.215296):0.312642,(((((35:0.078316,(46:0.047805,48:0.130486):0.103640):0.033694,(((36:0.009435,37:0.018564):0.026145,(38:0.027921,39:0.046071):0.050307):0.039121,((40:0.029404,41:0.018561):0.079881,42:0.119579):0.035420,43:0.035709):0.042456,44:0.055941,47:0.077639,(49:0.068958,(56:0.188972,(((((((((59:0.107348,60:0.052143):0.051638,62:0.071335):0.061653,61:0.078661):0.072789,64:0.039840):0.055044,63:0.035532):0.039103,(65:0.035444,66:0.114530):0.052726):0.071291,(68:0.130439,69:0.278152):0.087118):0.080381,67:0.085330):0.184819,94:0.500836):0.421457):0.079056):0.041334):0.044224,(50:0.066930,51:0.081918,52:0.067993,(53:0.010787,54:0.223376):0.036472,55:0.162739):0.052238):0.070251,45:0.062029):0.146541,57:0.166052,58:0.275692,((((((((70:0.103781,81:0.168689):0.058423,79:0.103171):0.043243,((((73:0.063880,(74:0.064050,78:0.064890):0.067458):0.027788,(75:0.012013,76:0.044631):0.040396):0.015975,77:0.082131):0.035780,89:0.056243):0.036271,(80:0.051271,((((83:0.105803,84:0.014356):0.019166,(85:0.011951,86:0.022625):0.019116):0.049709,88:0.124535):0.043026,87:0.058250):0.219086):0.060150):0.070249,(71:0.039002,72:0.040361):0.096272):0.105675,82:0.081779):0.115172,(90:0.127815,91:0.056591):0.226881):0.127753,(92:0.210179,93:0.157470):0.423204):0.141225,97:0.617316):0.183355,95:0.817639,(((98:0.180697,(99:0.079704,100:0.093693):0.183032):0.199993,(101:0.089377,102:0.140512):0.298910):0.205908,(103:0.360725,(104:0.209258,105:0.302070):1.012012):0.107666):0.579074,((106:0.358966,(107:0.450033,108:0.273862):0.191427):0.350699,109:0.684721):0.254292,110:1.064650):0.440545):0.069995,16:0.143379):0.060582);
+end;

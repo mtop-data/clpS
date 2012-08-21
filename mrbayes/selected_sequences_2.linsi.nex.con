@@ -1,0 +1,125 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=45;
+	taxlabels
+	Rubrobacter_xylanophilus_DSM_9941_gi_108803856[&!color=#-16777216]
+	Ktedonobacter_racemifer_DSM_44963_gi_298245523[&!color=#-16777216]
+	Anabaena_variabilis_ATCC_29413_gi_75907498[&!color=#-16777216]
+	Fischerella_sp_JSC_11_gi_354566131[&!color=#-16777216]
+	Raphidiopsis_brookii_D9_gi_282897015[&!color=#-16777216]
+	Cylindrospermopsis_raciborskii_CS_505_gi_282899028[&!color=#-16777216]
+	Oscillatoria_sp_PCC_6506_gi_300868553[&!color=#-16777216]
+	Microcoleus_vaginatus_FGP_2_gi_334120716[&!color=#-16777216]
+	REF_Synechococcus_7942_ClpS1_REF[&!color=#-16777216]
+	Nostoc_azollae_0708_gi_298490087[&!color=#-16777216]
+	Gloeobacter_violaceus_PCC_7421_gi_37520315[&!color=#-16777216]
+	Oryza_sativa_Japonica_Group_gi_115476544[&!color=#-16777216]
+	Oryza_sativa_Japonica_Group_gi_125603506[&!color=#-16777216]
+	Zea_mays_gi_195652021[&!color=#-16777216]
+	Zea_mays_gi_226506038[&!color=#-16777216]
+	Brachypodium_distachyon_gi_357147864[&!color=#-16777216]
+	Arabidopsis_thaliana_gi_145326694[&!color=#-16777216]
+	REF_Arabidopsis_thaliana_ClpS_REF[&!color=#-16777216]
+	Arabidopsis_lyrata_subsp_lyrata_gi_297841589[&!color=#-16777216]
+	Populus_trichocarpa_gi_224099343[&!color=#-16777216]
+	Populus_trichocarpa_gi_224111728[&!color=#-16777216]
+	Glycine_max_gi_351723283[&!color=#-16777216]
+	Medicago_truncatula_gi_357488429[&!color=#-16777216]
+	Vitis_vinifera_gi_297737852[&!color=#-16777216]
+	Vitis_vinifera_gi_225455872[&!color=#-16777216]
+	Glycine_max_gi_356531226[&!color=#-16777216]
+	Picea_sitchensis_gi_294460817[&!color=#-16777216]
+	Selaginella_moellendorffii_gi_302761288[&!color=#-16777216]
+	Physcomitrella_patens_gi_121489819[&!color=#-16777216]
+	Chlorella_variabilis_gi_307105846[&!color=#-16777216]
+	Chlamydomonas_reinhardtii_gi_159467236[&!color=#-16777216]
+	Volvox_carteri_f_nagariensis_gi_302834902[&!color=#-16777216]
+	Guillardia_theta_gi_57335897[&!color=#-16777216]
+	Oscillatoria_sp_PCC_6506_gi_300864591[&!color=#-16777216]
+	Microcoleus_vaginatus_FGP_2_gi_334119600[&!color=#-16777216]
+	Anabaena_variabilis_ATCC_29413_gi_75909055[&!color=#-16777216]
+	Nostoc_azollae_0708_gi_298491120[&!color=#-16777216]
+	Fischerella_sp_JSC_11_gi_354566811[&!color=#-16777216]
+	Raphidiopsis_brookii_D9_gi_282895992[&!color=#-16777216]
+	Cylindrospermopsis_raciborskii_CS_505_gi_282901708[&!color=#-16777216]
+	REF_Synechococcus_7942_ClpS2_REF[&!color=#-16777216]
+	Gloeobacter_violaceus_PCC_7421_gi_37521807[&!color=#-16777216]
+	Conexibacter_woesei_DSM_14684_gi_284045641[&!color=#-16777216]
+	Patulibacter_sp_I11_gi_367468593[&!color=#-16777216]
+	Gloeobacter_violaceus_PCC_7421_gi_37522100[&!color=#-16777216]
+;
+end;
+
+begin trees;
+	tree con_50_majrule = [&R] (Rubrobacter_xylanophilus_DSM_9941_gi_108803856[&!color=#-16777012]:0.302926,Ktedonobacter_racemifer_DSM_44963_gi_298245523[&!color=#-16777012]:0.534653,((((Anabaena_variabilis_ATCC_29413_gi_75907498[&!color=#-3407872]:0.031219,Fischerella_sp_JSC_11_gi_354566131[&!color=#-3407872]:0.08293,(Raphidiopsis_brookii_D9_gi_282897015[&!color=#-3407872]:0.015796,Cylindrospermopsis_raciborskii_CS_505_gi_282899028[&!color=#-3407872]:0.030764)[&!color=#-3407872,label=1.0]:0.091074,(Oscillatoria_sp_PCC_6506_gi_300868553[&!color=#-3407872]:0.068603,(Microcoleus_vaginatus_FGP_2_gi_334120716[&!color=#-3407872]:0.082677,REF_Synechococcus_7942_ClpS1_REF[&!color=#-3407872]:0.236659)[&!color=#-3407872,label=0.86]:0.083877)[&!color=#-3407872,label=0.65]:0.054561)[&!color=#-3407872,label=0.51]:0.040516,Nostoc_azollae_0708_gi_298490087[&!color=#-3407872]:0.06093)[&!color=#-3407872,label=0.98]:0.133712,Gloeobacter_violaceus_PCC_7421_gi_37520315[&!color=#-3407872]:0.369073)[&!color=#-3407872,label=0.99]:0.167988,(((((Oryza_sativa_Japonica_Group_gi_115476544[&!color=#-16738048]:0.013954,Oryza_sativa_Japonica_Group_gi_125603506[&!color=#-16738048]:0.078963)[&!color=#-16738048,label=1.0]:0.054232,((Zea_mays_gi_195652021[&!color=#-16738048]:0.062767,Zea_mays_gi_226506038[&!color=#-16738048]:0.032532)[&!color=#-16738048,label=1.0]:0.0351,Brachypodium_distachyon_gi_357147864[&!color=#-16738048]:0.106149)[&!color=#-16738048,label=0.66]:0.030546)[&!color=#-16738048,label=1.0]:0.131149,((((Arabidopsis_thaliana_gi_145326694[&!color=#-16738048]:0.007044,REF_Arabidopsis_thaliana_ClpS_REF[&!color=#-16738048]:0.005721)[&!color=#-16738048,label=0.91]:0.012936,Arabidopsis_lyrata_subsp_lyrata_gi_297841589[&!color=#-16738048]:0.022884)[&!color=#-16738048,label=1.0]:0.119702,(((Populus_trichocarpa_gi_224099343[&!color=#-16738048]:0.024819,Populus_trichocarpa_gi_224111728[&!color=#-16738048]:0.030911)[&!color=#-16738048,label=1.0]:0.064011,(Glycine_max_gi_351723283[&!color=#-16738048]:0.041073,Medicago_truncatula_gi_357488429[&!color=#-16738048]:0.114541)[&!color=#-16738048,label=1.0]:0.104533)[&!color=#-16738048,label=0.6]:0.035361,(Vitis_vinifera_gi_297737852[&!color=#-16738048]:0.055629,(Vitis_vinifera_gi_225455872[&!color=#-16738048]:0.123549,(Glycine_max_gi_356531226[&!color=#-16738048]:0.171796,Picea_sitchensis_gi_294460817[&!color=#-16738048]:0.199002)[&!color=#-16738048,label=0.81]:0.04646)[&!color=#-16738048,label=0.75]:0.038013)[&!color=#-16738048,label=0.58]:0.029748)[&!color=#-16738048,label=0.8]:0.056919)[&!color=#-16738048,label=1.0]:0.106648,(Selaginella_moellendorffii_gi_302761288[&!color=#-16738048]:0.229486,Physcomitrella_patens_gi_121489819[&!color=#-16738048]:0.282447)[&!color=#-16738048,label=1.0]:0.121642)[&!color=#-16738048,label=0.77]:0.082072)[&!color=#-16738048,label=1.0]:0.228698,(Chlorella_variabilis_gi_307105846[&!color=#-16738048]:0.337542,(Chlamydomonas_reinhardtii_gi_159467236[&!color=#-16738048]:0.184516,Volvox_carteri_f_nagariensis_gi_302834902[&!color=#-16738048]:0.185825)[&!color=#-16738048,label=1.0]:0.48477)[&!color=#-16738048,label=0.92]:0.085543)[&!color=#-16738048,label=0.98]:0.12917,(Guillardia_theta_gi_57335897:0.626847,(((((Oscillatoria_sp_PCC_6506_gi_300864591[&!color=#-3407872]:0.015992,Microcoleus_vaginatus_FGP_2_gi_334119600[&!color=#-3407872]:0.105247)[&!color=#-3407872,label=0.97]:0.055439,((Anabaena_variabilis_ATCC_29413_gi_75909055[&!color=#-3407872]:0.06388,Nostoc_azollae_0708_gi_298491120[&!color=#-3407872]:0.119403)[&!color=#-3407872,label=1.0]:0.073054,Fischerella_sp_JSC_11_gi_354566811[&!color=#-3407872]:0.04144,(Raphidiopsis_brookii_D9_gi_282895992[&!color=#-3407872]:0.040623,Cylindrospermopsis_raciborskii_CS_505_gi_282901708[&!color=#-3407872]:0.01126)[&!color=#-3407872,label=1.0]:0.135317,REF_Synechococcus_7942_ClpS2_REF[&!color=#-3407872]:0.297951)[&!color=#-3407872,label=0.76]:0.060195)[&!color=#-3407872,label=0.85]:0.114034,Gloeobacter_violaceus_PCC_7421_gi_37521807[&!color=#-3407872]:0.216238)[&!color=#-3407872,label=0.81]:0.13023,(Conexibacter_woesei_DSM_14684_gi_284045641[&!color=#-16777012]:0.225713,Patulibacter_sp_I11_gi_367468593[&!color=#-16777012]:0.171545)[&!color=#-16777012,label=1.0]:0.435717)[&label=0.99]:0.269108,Gloeobacter_violaceus_PCC_7421_gi_37522100:0.788403)[&label=1.0]:0.362265)[&label=0.89]:0.197572)[&label=0.65]:0.102493)[&!color=#-16777012,label=0.93]:0.163464);
+	tree con_50_majrule = [&R] (Rubrobacter_xylanophilus_DSM_9941_gi_108803856:0.302926,Ktedonobacter_racemifer_DSM_44963_gi_298245523:0.534653,((((Anabaena_variabilis_ATCC_29413_gi_75907498:0.031219,Fischerella_sp_JSC_11_gi_354566131:0.08293,(Raphidiopsis_brookii_D9_gi_282897015:0.015796,Cylindrospermopsis_raciborskii_CS_505_gi_282899028:0.030764):0.091074,(Oscillatoria_sp_PCC_6506_gi_300868553:0.068603,(Microcoleus_vaginatus_FGP_2_gi_334120716:0.082677,REF_Synechococcus_7942_ClpS1_REF:0.236659):0.083877):0.054561):0.040516,Nostoc_azollae_0708_gi_298490087:0.06093):0.133712,Gloeobacter_violaceus_PCC_7421_gi_37520315:0.369073):0.167988,(((((Oryza_sativa_Japonica_Group_gi_115476544:0.013954,Oryza_sativa_Japonica_Group_gi_125603506:0.078963):0.054232,((Zea_mays_gi_195652021:0.062767,Zea_mays_gi_226506038:0.032532):0.0351,Brachypodium_distachyon_gi_357147864:0.106149):0.030546):0.131149,((((Arabidopsis_thaliana_gi_145326694:0.007044,REF_Arabidopsis_thaliana_ClpS_REF:0.005721):0.012936,Arabidopsis_lyrata_subsp_lyrata_gi_297841589:0.022884):0.119702,(((Populus_trichocarpa_gi_224099343:0.024819,Populus_trichocarpa_gi_224111728:0.030911):0.064011,(Glycine_max_gi_351723283:0.041073,Medicago_truncatula_gi_357488429:0.114541):0.104533):0.035361,(Vitis_vinifera_gi_297737852:0.055629,(Vitis_vinifera_gi_225455872:0.123549,(Glycine_max_gi_356531226:0.171796,Picea_sitchensis_gi_294460817:0.199002):0.04646):0.038013):0.029748):0.056919):0.106648,(Selaginella_moellendorffii_gi_302761288:0.229486,Physcomitrella_patens_gi_121489819:0.282447):0.121642):0.082072):0.228698,(Chlorella_variabilis_gi_307105846:0.337542,(Chlamydomonas_reinhardtii_gi_159467236:0.184516,Volvox_carteri_f_nagariensis_gi_302834902:0.185825):0.48477):0.085543):0.12917,(Guillardia_theta_gi_57335897:0.626847,(((((Oscillatoria_sp_PCC_6506_gi_300864591:0.015992,Microcoleus_vaginatus_FGP_2_gi_334119600:0.105247):0.055439,((Anabaena_variabilis_ATCC_29413_gi_75909055:0.06388,Nostoc_azollae_0708_gi_298491120:0.119403):0.073054,Fischerella_sp_JSC_11_gi_354566811:0.04144,(Raphidiopsis_brookii_D9_gi_282895992:0.040623,Cylindrospermopsis_raciborskii_CS_505_gi_282901708:0.01126):0.135317,REF_Synechococcus_7942_ClpS2_REF:0.297951):0.060195):0.114034,Gloeobacter_violaceus_PCC_7421_gi_37521807:0.216238):0.13023,(Conexibacter_woesei_DSM_14684_gi_284045641:0.225713,Patulibacter_sp_I11_gi_367468593:0.171545):0.435717):0.269108,Gloeobacter_violaceus_PCC_7421_gi_37522100:0.788403):0.362265):0.197572):0.102493):0.163464);
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="User Selection";
+	set appearance.backgroundColour=#-1;
+	set appearance.branchColorAttribute="User Selection";
+	set appearance.branchLineWidth=2.0;
+	set appearance.foregroundColour=#-16777216;
+	set appearance.selectionColour=#-2144520576;
+	set branchLabels.colorAttribute="User Selection";
+	set branchLabels.displayAttribute="label";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=true;
+	set branchLabels.significantDigits=4;
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set nodeBars.barWidth=4.0;
+	set nodeLabels.colorAttribute="User Selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleAxis.significantDigits=4;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set scaleBar.significantDigits=4;
+	set tipLabels.colorAttribute="User Selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="Arial";
+	set tipLabels.fontSize=11;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=true;
+	set tipLabels.significantDigits=4;
+	set trees.order=true;
+	set trees.orderType="increasing";
+	set trees.rooting=true;
+	set trees.rootingType="Midpoint";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+

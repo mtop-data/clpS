@@ -1,0 +1,81 @@
+#NEXUS
+
+[ID: 9529852541]
+begin taxa;
+	dimensions ntax=31;
+	taxlabels
+		Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_3792
+		Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_3450
+		Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3650
+		Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_1770
+		Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_1627
+		ClpS2_Synechococcus_7942_ClpS2
+		Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2237
+		Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2530
+		Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_5473
+		Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_1891
+		Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_2031
+		Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3476
+		Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_6367
+		ClpS1_Synechococcus_7942_ClpS1
+		Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_745
+		Brassica_rapa_gnl_BL_ORD_ID_16356
+		Medicago_truncatula_gnl_BL_ORD_ID_34263
+		Zea_mays_gnl_BL_ORD_ID_43912
+		Oryza_sativa_gnl_BL_ORD_ID_6727
+		Physcomitrella_patens_gnl_BL_ORD_ID_33457
+		Physcomitrella_patens_gnl_BL_ORD_ID_6354
+		Cyanophora_paradoxa_gnl_BL_ORD_ID_27119
+		Volvox_carteri_gnl_BL_ORD_ID_608
+		Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_9005
+		Cyanidioschyzon_merolae_gnl_BL_ORD_ID_2238
+		Cyanophora_paradoxa_gnl_BL_ORD_ID_23599
+		Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_1197
+		Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_3127
+		Escherichia_coli_UTI89_gnl_BL_ORD_ID_1000
+		Streptomyces_avermitilis_MA_4680_gnl_BL_ORD_ID_5165
+		Chlorobium_tepidum_TLS_gnl_BL_ORD_ID_2204
+		;end;
+begin trees;
+	translate
+		1	Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_3792,
+		2	Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_3450,
+		3	Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3650,
+		4	Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_1770,
+		5	Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_1627,
+		6	ClpS2_Synechococcus_7942_ClpS2,
+		7	Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2237,
+		8	Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2530,
+		9	Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_5473,
+		10	Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_1891,
+		11	Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_2031,
+		12	Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3476,
+		13	Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_6367,
+		14	ClpS1_Synechococcus_7942_ClpS1,
+		15	Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_745,
+		16	Brassica_rapa_gnl_BL_ORD_ID_16356,
+		17	Medicago_truncatula_gnl_BL_ORD_ID_34263,
+		18	Zea_mays_gnl_BL_ORD_ID_43912,
+		19	Oryza_sativa_gnl_BL_ORD_ID_6727,
+		20	Physcomitrella_patens_gnl_BL_ORD_ID_33457,
+		21	Physcomitrella_patens_gnl_BL_ORD_ID_6354,
+		22	Cyanophora_paradoxa_gnl_BL_ORD_ID_27119,
+		23	Volvox_carteri_gnl_BL_ORD_ID_608,
+		24	Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_9005,
+		25	Cyanidioschyzon_merolae_gnl_BL_ORD_ID_2238,
+		26	Cyanophora_paradoxa_gnl_BL_ORD_ID_23599,
+		27	Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_1197,
+		28	Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_3127,
+		29	Escherichia_coli_UTI89_gnl_BL_ORD_ID_1000,
+		30	Streptomyces_avermitilis_MA_4680_gnl_BL_ORD_ID_5165,
+		31	Chlorobium_tepidum_TLS_gnl_BL_ORD_ID_2204
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (1:0.194361,((8:0.510608,31:1.004466)0.59:0.154102,((((((9:0.090308,(10:0.023303,(11:0.026907,12:0.056384)0.92:0.038554)0.88:0.040989)0.98:0.049452,14:0.208670)0.93:0.050594,13:0.050772)0.98:0.135229,15:0.317473)0.88:0.104329,(((((16:0.051809,17:0.087266)0.67:0.051809,(18:0.028578,19:0.049468)1.00:0.130206)0.80:0.068319,(20:0.040087,21:0.013290)1.00:0.107035)1.00:0.204795,(23:0.089167,24:0.094504)1.00:0.307113)0.84:0.108983,(25:0.440624,26:0.390833)0.99:0.217861)0.83:0.143778,22:0.516408)0.78:0.178791,((27:0.319105,(28:0.332844,29:0.337347)1.00:0.211895)1.00:0.301668,30:0.697079)0.94:0.233796)0.95:0.265368)1.00:0.292132,((((2:0.049653,3:0.044640)0.53:0.036802,4:0.076629)0.99:0.070275,6:0.197701)0.72:0.049505,(5:0.073629,7:0.253730)0.91:0.065130)0.75:0.076054);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (mean of the posterior probability density).]
+   tree con_50_majrule = (1:0.194361,((8:0.510608,31:1.004466):0.154102,((((((9:0.090308,(10:0.023303,(11:0.026907,12:0.056384):0.038554):0.040989):0.049452,14:0.208670):0.050594,13:0.050772):0.135229,15:0.317473):0.104329,(((((16:0.051809,17:0.087266):0.051809,(18:0.028578,19:0.049468):0.130206):0.068319,(20:0.040087,21:0.013290):0.107035):0.204795,(23:0.089167,24:0.094504):0.307113):0.108983,(25:0.440624,26:0.390833):0.217861):0.143778,22:0.516408):0.178791,((27:0.319105,(28:0.332844,29:0.337347):0.211895):0.301668,30:0.697079):0.233796):0.265368):0.292132,((((2:0.049653,3:0.044640):0.036802,4:0.076629):0.070275,6:0.197701):0.049505,(5:0.073629,7:0.253730):0.065130):0.076054);
+end;
