@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.25+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Users/mats/db/Phytozome/Carica_papaya/annotation/Cpapaya_113_peptide</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Oryza_sativa_gnl_BL_ORD_ID_22109</BlastOutput_query-def>
+  <BlastOutput_query-len>172</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Oryza_sativa_gnl_BL_ORD_ID_22109</Iteration_query-def>
+      <Iteration_query-len>172</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|24571</Hit_id>
+          <Hit_def>@Carica_papaya@_evm.model.supercontig_953.2|PACid:16428932 </Hit_def>
+          <Hit_accession>24571</Hit_accession>
+          <Hit_len>173</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>170.629249500423</Hsp_bit-score>
+              <Hsp_score>431</Hsp_score>
+              <Hsp_evalue>2.28517003908106e-43</Hsp_evalue>
+              <Hsp_query-from>1</Hsp_query-from>
+              <Hsp_query-to>170</Hsp_query-to>
+              <Hsp_hit-from>1</Hsp_hit-from>
+              <Hsp_hit-to>172</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>93</Hsp_identity>
+              <Hsp_positive>120</Hsp_positive>
+              <Hsp_gaps>12</Hsp_gaps>
+              <Hsp_align-len>177</Hsp_align-len>
+              <Hsp_qseq>MAISSRAAACGALIFPTTASAAPVSRSVSVDQRVSHRRRKAVAVAAVPHA----SSGGA-LLERPAFDQSQLDTLPVTQ--EGGDTGRMRDRRGSGSGDSYKVLLIDDARHTEKLVEKALPQVVPSVTAEAARQLFHASRQKGAALVIVAVKEHAEFYAQMMVRQGLRSAIEPESDL</Hsp_qseq>
+              <Hsp_hseq>MAVTGKPTTSVSLTHLPPLLFSPIPRPASV---VSVRGRSGTSKFARVNANFVPSKGGAGILERPTFDQSQFD--PSTQVLEGGDVGRLKNKKGVGSGDSYRVLLMDDIRHTENLVAKILPQVIPSVTPNDARRLFNESRENGVAVVIVTVKEHAEFYSQMMIRGGLRSTIEPDTNV</Hsp_hseq>
+              <Hsp_midline>MA++ +     +L        +P+ R  SV   VS R R   +  A  +A    S GGA +LERP FDQSQ D  P TQ  EGGD GR+++++G GSGDSY+VLL+DD RHTE LV K LPQV+PSVT   AR+LF+ SR+ G A+VIV VKEHAEFY+QMM+R GLRS IEP++++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|311</Hit_id>
+          <Hit_def>@Carica_papaya@_evm.model.supercontig_1.209|PACid:16404132 </Hit_def>
+          <Hit_accession>311</Hit_accession>
+          <Hit_len>158</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>46.5949860550355</Hsp_bit-score>
+              <Hsp_score>109</Hsp_score>
+              <Hsp_evalue>4.81346402362476e-06</Hsp_evalue>
+              <Hsp_query-from>56</Hsp_query-from>
+              <Hsp_query-to>168</Hsp_query-to>
+              <Hsp_hit-from>52</Hsp_hit-from>
+              <Hsp_hit-to>155</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>30</Hsp_identity>
+              <Hsp_positive>54</Hsp_positive>
+              <Hsp_gaps>9</Hsp_gaps>
+              <Hsp_align-len>113</Hsp_align-len>
+              <Hsp_qseq>LLERPAFDQSQLDTLPVTQEGGDTGRMRDRRGSGSGDSYKVLLIDDARHTEKLVEKALPQVVPSVTAEAARQLFHASRQKGAALVIVAVKEHAEFYAQMMVRQGLRSAIEPES</Hsp_qseq>
+              <Hsp_hseq>VLERPVIEK----TTP-----GRESEFDLRKSRKTAPPYRVILHNDNYNKREYVVQVLMKVIPGMTLDNAVNIMQEAHYNGLSVVIICAQADAEDHCMQLRGNGLLSSIEPAS</Hsp_hseq>
+              <Hsp_midline>+LERP  ++    T P     G       R+   +   Y+V+L +D  +  + V + L +V+P +T + A  +   +   G ++VI+  +  AE +   +   GL S+IEP S</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|10179</Hit_id>
+          <Hit_def>@Carica_papaya@_evm.model.supercontig_23.164|PACid:16414215 </Hit_def>
+          <Hit_accession>10179</Hit_accession>
+          <Hit_len>1401</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>26.9498076832505</Hsp_bit-score>
+              <Hsp_score>58</Hsp_score>
+              <Hsp_evalue>3.54110097325478</Hsp_evalue>
+              <Hsp_query-from>11</Hsp_query-from>
+              <Hsp_query-to>50</Hsp_query-to>
+              <Hsp_hit-from>1184</Hsp_hit-from>
+              <Hsp_hit-to>1223</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>22</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>40</Hsp_align-len>
+              <Hsp_qseq>GALIFPTTASAAPVSRSVSVDQRVSHRRRKAVAVAAVPHA</Hsp_qseq>
+              <Hsp_hseq>AAILFIGITNGTAVQPVVSIERSVSYRERAAGLYSALPFA</Hsp_hseq>
+              <Hsp_midline> A++F    +   V   VS+++ VS+R R A   +A+P A</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>27793</Statistics_db-num>
+          <Statistics_db-len>8239634</Statistics_db-len>
+          <Statistics_hsp-len>89</Statistics_hsp-len>
+          <Statistics_eff-space>478582731</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

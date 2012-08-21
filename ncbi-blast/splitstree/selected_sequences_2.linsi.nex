@@ -1,0 +1,235 @@
+#NEXUS
+[saved by seaview on Mon Jan 16 09:46:35 2012]
+BEGIN DATA;
+  DIMENSIONS NTAX=45 NCHAR=238;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] Rubrobacter_xylanophilus_DSM_9941_gi_108803856
+M-----------------------------------------------------------
+---------------------------------------------------------VGS
+LTRDIRCSAATKTAPARK--TRRAPSREP--RYRVILHNDDWTPMDHVVAALMKVVPRLS
+LRRAVSIMLEAHTKGQAVVTRCHRELAELYREGLKAEGLIST-IEPDG----------
+[2] Anabaena_variabilis_ATCC_29413_gi_75907498
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVETIEK--RSTSRKLAP--RYRVLLHNDDYNSMEYVVQVLITTVPSLT
+QPQAVSIMMEAHTNGLALVITCAQEHAEFYCETLKDHGLSST-IEPD----------E
+[3] 'Fischerella_sp_JSC-11_gi_354566131'
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVETQQK--RSTSRKLAP--QYRVLLHNDDYNTMEYVVQVLLTTVPSLT
+QPQAVSIMMEAHSNGLALVITCAQEPAEFYCETLKNHGLTST-IEPE----------E
+[4] Nostoc_azollae_0708_gi_298490087
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVETIEK--RSTTRKLAP--QYRVLLHNDDYNSMEYVVQVLMTSVPSIT
+QPQAVNIMMEAHNSGLALVITCAQEHAEFYCETLKGHGLSST-IEPD-----------
+[5] Raphidiopsis_brookii_D9_gi_282897015
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVETIEK--PSTTRKLAP--RYRVLLHNDDYNSMEYVVQVLLSTIPSLT
+QPQAVTIMMEAHSNGLALVISCALEHAEFYCESLNNHGLTST-IEPD----------D
+[6] 'Cylindrospermopsis_raciborskii_CS-505_gi_282899028'
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVETIEK--PSTTRKLAP--RYRVLLHNDDYNSMEYVVQVLLSTIPSLT
+QPQAVSIMMEAHSHGLALVISCALEHAEFYCESLNNYGLTST-IEPD----------D
+[7] Oscillatoria_sp_PCC_6506_gi_300868553
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVETIEK--RSTVRKIAP--RYRVLLHNDDFNSMEYVVQTLMHTVPSLT
+QPQAVNIMMEAHTNGLAVVIICAQEHAEFYSETLNNHGLIST-IEPD----------E
+[8] 'Microcoleus_vaginatus_FGP-2_gi_334120716'
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------SVEIIQK--ASTVRKLAP--RYRVLLHNDDFNPMEYVVQTLMATVPSLT
+QPQAVNVMMEAHTNGMGLVIVCALEHAEFYAETLNNHGLSSS-IEPD----------D
+[9] REF_Synechococcus_7942_ClpS1_REF
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------AVETIQKPETTTKRKIAP--RYRVLLHNDDFNPMEYVVMVLMQTVPSLT
+QPQAVDIMMEAHTNGTGLVITCDIEPAEFYCEQLKSHGLEQQ---------------H
+[10] Gloeobacter_violaceus_PCC_7421_gi_37520315
+M-----------------------------------------------------------
+------------------------------------------------------------
+-----------STETLER--KSVQRKPMP--LYKVLLHNDDHTPMNYVIEVLMKTIPKMQ
+PSKARKIMLEAHNGGVAVVIVCALEHAEFYSESLNRHNLTST-YEPD----------C
+[11] Oryza_sativa_Japonica_Group_gi_115476544
+MEAAVPSRVALS-ASRLSN----HHHHAV-GGERYAI---------YRGRCPNPAIPM-A
+LAAAAAPGK----G-GGVLDRP-IEKV-TPGR----------------------------
+-------------QSEFD--VRKSRKMTP--PYRVLLHNDNYNRREYVVQVLMKVIPGMT
+VDNAVNIMQEAHVNGLSVVIICSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[12] Oryza_sativa_Japonica_Group_gi_125603506
+MEAAVPSRCG---ALREPA----LQPPPP-RGERYAI---------YRGRCPNPAIPM-A
+LAAAAAPGK----G-GGVLDRP-IEKV-TPGR----------------------------
+-------------QSEFD--VRKSRKMTP--PYRVLLHNDNYNRREYVVQVLMKVIPGMT
+VDNAVNIMQEAHVNGLSVVIICSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[13] Zea_mays_gi_195652021
+MMASVPSRVALSAASRLPN------LHAV-AGDRSFI---------YKRRCPSLSIPM-A
+L-SAAAPGK----G-GGVLDRP-VEKI-TPGR----------------------------
+-------------QSEFD--VKKSRKMTP--PFRVILHNDNHNRREYVVQVLMKVIPGMT
+VDNALSIMQEAHVNGLSVVIVCSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[14] Zea_mays_gi_226506038
+MEAAVPSRVALSAASRLPN------PHAV-TGDRSFI---------YKGRCQSLAIPM-A
+L-SAAAPGK----G-GGVLDRP-VEKT-TPGR----------------------------
+-------------QSEFD--VKKSRKMSP--PYRVILHNDNYNRREYVVKVLMKVIPGMT
+VDNAVNIMQEAHVNGLSVVIVCSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[15] Brachypodium_distachyon_gi_357147864
+MEAAVPSRIALSA--RIMN------HHVVAAGGRSSI---------YRGRYPNIAIPI-V
+VTAA---GK----G-GGVLDRP-AEKI-SPGR----------------------------
+-------------QSEFD--VKKSRKMSP--PYRVVLHNDNENRREYVVQVLMKVIPGMT
+VDNAVNIMQEAHVNGLAVVIVCSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[16] Arabidopsis_thaliana_gi_145326694
+METAICGRLALA-----PS----SLFNSK-SGDKHLV---------SKGPCVNRSILM-T
+LSTSAALGK----G-GGVLDKPIIEKT-TPGR----------------------------
+-------------ESEFD--LRKSKKIAP--PYRVILHNDNFNKREYVVQVLMK------
+------------------------ADAEQHCMQLRGNGLLSS-VEPDGGG-------C
+[17] Arabidopsis_lyrata_subsp_lyrata_gi_297841589
+METAICGRLALA-----PS----SLFNSK-SGDKHLV---------SKGPCVNRGVLM-T
+LSTYAALGK----G-GGVLDKPIIEKT-TPGR----------------------------
+-------------ESEFD--LRKSKKMAP--PYRVILHNDNFNKREYVVQVLMKVIPGMT
+VDNAVNIMQEAHINGLAVVIVCAQADAEQHCMQLRGNGLLSS-VEPDGGG-------C
+[18] REF_Arabidopsis_thaliana_ClpS_REF
+METAICGRLALA-----PS----SLFNSK-SGDKHLV---------SKGPCVNRSILM-T
+LSTSAALGK----G-GGVLDKPIIEKT-TPGR----------------------------
+-------------ESEFD--LRKSKKIAP--PYRVILHNDNFNKREYVVQVLMKVIPGMT
+VDNAVNIMQEAHINGLAVVIVCAQADAEQHCMQLRGNGLLSS-VEPDGGG-------C
+[19] Populus_trichocarpa_gi_224099343
+METAICGRIALS-----PN----HVFNPK-PGDKNSV---------CRGPCANRGILM-A
+ISTTCS-GK----G-GGLLEKPVIERT-TPGR----------------------------
+-------------ESEFD--LRKSKKMAP--PYRVMLHNDNYNKREYVVQVLMKVIPGMT
+LDNAVNIMQEAHYNGLSVVIICAQADAEEHCMQLRGNGLLSS-IEPASGG-------C
+[20] Populus_trichocarpa_gi_224111728
+METAICGRIALS-----PN----HVFNPK-PGDKNSV---------CRGPCASRGILM-S
+ISATVS-GKGGGGG-GGILEKPVIERT-TPGR----------------------------
+-------------ESEFD--LRKSKKMAP--PYRVILHNDNYNKREYVVQVLMKVIPGMT
+LDNAVNIMQEAHYNGLSVVIICTQADAEEHCMQLRGNGLLSS-IEPASGG-------C
+[21] Glycine_max_gi_351723283
+MKSAICGRI-LS-----PN----HVF--K-PGDTHSI---------CKGPYSNLCVPM-A
+VLATGP-GK----G-GGVLEKPVIEKV-TPGR----------------------------
+-------------ESEFD--LKKSRKSAP--PYRVILHNDNFNKREYVVQVLMKVIPGMT
+LDNAVNIMQEAHYNGLSVVIICDQADAEDHCTQLRGNGLLSS-IEPASGG-------C
+[22] Medicago_truncatula_gi_357488429
+MKSAICRSMGLS-----PN----HLF--I-SGDRYSF---------CKGPYSNLCVPM-A
+VLTKGS-GK----G-GGILEKPVIEKA-TPGR----------------------------
+-------------ESEFD--LKKSRKTAP--PYRVILHNDNFNKREYVVQVLMKVIPGMT
+LDNAVNIMQEAHHNGMSVVIICAQADAEDHCMQLRGNGLLSS-IEPAGDG-------C
+[23] Vitis_vinifera_gi_297737852
+MENAICGRLALS-----PN----HVFNSK-SGDKHSL---------LKGPCTNRSFLM-A
+ISASGP-GK------GGLLERPVIEKV-TPGR----------------------------
+-------------ESEFD--LRKSRKIAP--PYRVILHNDNYNKREYVVQVLMK------
+------------------------ADAEDHCMQLRGNGLLSS-IEPASGG-------C
+[24] Vitis_vinifera_gi_225455872
+METAICGRVPLS-----PN----HFFTSK-SGDKHSL---------SK-QWTHRTMLM-T
+VSAAAP-GK----G-SGVLERPTIERI-MPGR----------------------------
+-------------ESEFD--LRKSRKMSP--PYRVLLHNDNYNKREYVVQVLMKVIPGMT
+LDNAVNIMQEAHHNGMSVVIICAQVDAEDHCMQLRGNGLLSS-IEPASGG-------C
+[25] Glycine_max_gi_356531226
+MEAALCSALALS-----PN----QVFNAANPGDKNVP---------LK-YSKDRSVVM-T
+VAATGILGK----G-GGLLERPTIETT-SPGR----------------------------
+-------------ESEFD--LRKSRKTSP--PYRVLLHNDNFNKREYVVQVLMKVIPGMT
+IDNAVNIMQEAHYNGLAVVIVCAQVDAEDHCMQLRGNGLLSS-IEPADGGG------C
+[26] Picea_sitchensis_gi_294460817
+MASVIYSRLILP-----QP----QLYQQK-SGEKISQ---------SKGACMNRVFS--A
+IRSTSPGGK----G-GGLLERPTIEKT-TPGR----------------------------
+-------------ESEFD--LRKSRKTSP--PYRVLLHNDNYNKREYVVQVLMKVIPGMT
+LDTAVNIMQEAHYNGLAVVIICAQVDAEEHCTQLRGNGLLSS-IEPASDG-------C
+[27] Selaginella_moellendorffii_gi_302761288
+MACTLTQVAHLW-----PSTSQVSRFNTI-FAEADKC---------HK--CFTRIIASHA
+VRAALPGGL----G-GGVLDKPAIETAPTPGR----------------------------
+-------------ESEFD--LRKKKKMAP--PYRVILHNDNFNRREYVVQVLMKVIPGMT
+LDNAVNIMQEAHHNGLSVVIVCSQEDAEEHCTQLRANGLLSS-IEPASGGS------C
+[28] Physcomitrella_patens_gi_121489819
+MAGSL--RLFVS----IPATARHFGINGVEKAQR----------------VHNRVNGRYK
+INAASGPSQ----G-GGVLDRPTIDKP-TPGR----------------------------
+-------------ESEFD--LKKKKKISP--PYRVMLHNDNFNKREYVVQVLMKAIPGMT
+VDIAVNVMNEAHINGLAVVIVCPQEDAEDYCMQLRTNGLLSS-IEPAS---------C
+[29] Chlorella_variabilis_gi_307105846
+MTICVGQRLGGQ-------------AVAGKAGDKPPTRGAWLVPAGATRRSAQRRARLHV
+--AARSAGK----G-GGVLDRPGV----LPGQ----------------------------
+-------------QRGRE--TRRRR--PP--SYRVLLHNDNYNRREYVVQVLMKVVEGTT
+VDDAVNIMQEAHINGLAMVTQCAQDKAELYCESLRLNGLIAT-IEPAGTGGSDGTSSS
+[30] Chlamydomonas_reinhardtii_gi_159467236
+M------------MTRSPVAGLPRPCSALQRSGCT-----------LQGAFG--TFAPQT
+TRTFVVTWA----K-GGVMDAPTTTQ----------------------------------
+-------------QPASG--VERSQKRPP--IYKVLLHNDNYNKREYVVKVLLKVVEQIT
+VDDAVTCMQEAHETGVALVVACPQDNAERYCEGLRLNGLTST-IEPGG---------C
+[31] Volvox_carteri_f_nagariensis_gi_302834902
+MAASVLRPPPVSVASRAPTAAL----AVLPGSACLGW---------RRANFGTSTLLSQT
+TRTCVQMRA----GVPGLLDSPTITS----------------------------------
+-------------EPQQG--TDRAYKRPP--IYKVFLHNDNYNKREYVVKVLLKVVEEIT
+VDDAVTVMQEAHETGVALVVACPQENAERYCEGLRLNGLTST-IEPAG---------R
+[32] Ktedonobacter_racemifer_DSM_44963_gi_298245523
+M-----------------------------------------------------------
+-----------------------------------------------AQRQCQPSRL---
+-----------EIRPEEV--VRQRSSLLP--LYKVILFNDDYNDMLHVVAALLETVNTLT
+MQEATHIMLTAHLNGNAIVIVCPHELAEHYQERLLGYALTVT-IEPE-----------
+[33] Guillardia_theta_gi_57335897
+------------------------------------------------------------
+--------------------------------GLGGFKVPDSFNPAEMEKERQGGR----
+--------------TAVM--DRPSDKTDPGKKYKVLLFNDDKNTRQYVIDTLMKYIPGMT
+ADKAKEITVAAHNTGMAIVGVWMYEMAEAYSDVLRSAGLRSD-IDPE-----------
+[34] Oscillatoria_sp_PCC_6506_gi_300864591
+M-----------------------------------------------------------
+--------------------------------------------------TSSPTI----
+-------------APDRS--SQVTRKPYP--NYKVIVLNDDFNTFQHVSECLVKYIPGMT
+SDRAWKLTNQVHYEGQATVWVGPQEQAELYHMQLSRAGLTMAPLEQA-----------
+[35] Microcoleus_vaginatus_FGP_2_gi_334119600
+M-----------------------------------------------------------
+--------------------------------------------------TSSPTI----
+-------------APVRS--SQVTRKPYP--NYRVIVLNDDFNTFQHVVECLTKYIPGMT
+SDQAWKLANQIHHEGQATVWVGPQEQAELYHMQLSRAGLTMAPLEST-----------
+[36] Anabaena_variabilis_ATCC_29413_gi_75909055
+M-----------------------------------------------------------
+---------------------------------------VTKLSIDVYAMSTAPTV----
+-------------TPERS--NQTVRKSYP--NYKVIVLNDDFNTFQHVAECLVKYIPGMT
+GDLAWDLTNQVHYEGQAIVWVGPQEPAELYHQQLRRAGLTMAPLEAA-----------
+[37] 'Fischerella_sp_JSC-11_gi_354566811'
+M-----------------------------------------------------------
+---------------------------------------ITKLSAAVYAMAATPTI----
+-------------APERS--TQVTRKPYP--NYKVIVLNDDFNTFQHVAECLVKYIPGMT
+SDRAWELTNQVHYEGQAIVWTGPQEPAELYHQQLRRAGLTMAPLEAA-----------
+[38] Nostoc_azollae_0708_gi_298491120
+M-----------------------------------------------------------
+---------------------------------------ETRLAAVYYDMATAPTV----
+-------------TPDRV--NQVTRKTYP--NYKVIVLNDDFNTFQYVAECLMKYIPGMS
+GDLAWDLTNQVHYEGQAIVWVGPQEPAELYHQQLRRAGLTMAPLEGA-----------
+[39] Raphidiopsis_brookii_D9_gi_282895992
+M-----------------------------------------------------------
+---------------------------------------KTRPS-PIYAMAPAPTV----
+-------------TPDQG--TQVIRKPYP--NYKIIVLNDDFNTFEHVAKSLMKYIPGMT
+TEQAWELTNQVHYEGQAIVWVGPQEQAELYHQQLRRAGLTMAPLEAA-----------
+[40] Cylindrospermopsis_raciborskii_CS_505_gi_282901708
+M-----------------------------------------------------------
+---------------------------------------KTRPS-PVYAMASAPTV----
+-------------TPDQG--TQVVRKPYP--NYKVIVLNDDFNTFEHVAKSLMKYIPGMT
+TEQAWELTNQVHYEGQAIVWVGPQEQAELYHQQLRRAGLTMAPLEAA-----------
+[41] REF_Synechococcus_7942_ClpS2_REF
+M-----------------------------------------------------------
+----------------------------------DDAFVLTVLTCSLQAI-AAPAT----
+-------------APGTT--TTRVRQPYP--HFRVIVLDDDVNTFQHVAECLLKYIPGMT
+GDRAWDLTNQVHYEGAATVWSGPQEQAELYHEQLRREGLTMAPLEAA-----------
+[42] Gloeobacter_violaceus_PCC_7421_gi_37521807
+M-----------------------------------------------------------
+---------------------------------------------------SSATV----
+-------------TPTKP--ETSVKALKP---WKVIVLNDDFNTFQHVANCLVKYIPHMH
+PDRAWKLTQQVHSEGRAIVWVGPLEQAELYHEQLSREGLTMAPLEQA-----------
+[43] Conexibacter_woesei_DSM_14684_gi_284045641
+M-----------------------------------------------------------
+----------------------------------------------------GQTI----
+-------------EKQRV--QGPGSGLGG--NWRVIVKNDDHNTFDHVARTLARYIPGVT
+IAVGYDYADRIHNSGQAIVWSGQREVAELYWEQLQGAGLTMAPLEQG-----------
+[44] Patulibacter_sp_I11_gi_367468593
+M-----------------------------------------------------------
+----------------------------------------------------SQTI----
+-------------EQTRA--ADPGTGLGG--AWNVIVRNDDHNTFDHVATTLARVIPGVN
+VDAGFRLADRIHQAGLAVVWTGHKELAEHYWEQLRDAGLTMAPLEQA-----------
+[45] Gloeobacter_violaceus_PCC_7421_gi_37522100
+M-----------------------------------------------------------
+--------------------------------YPHASMERMVLAPAAVSAPPLPTKT---
+-----------PLDPVKT--PEKTPLRWR--DWVVRLFNDPVNKFEHVVESLCKHVPGMS
+QDMAWSVAWQAHREGVAATYQGPREVAELVCEKLVRDGLISDCCES------------
+;
+END;

@@ -1,0 +1,376 @@
+#NEXUS
+[saved by seaview on Sun Jan 15 23:03:39 2012]
+BEGIN DATA;
+  DIMENSIONS NTAX=61 NCHAR=292;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] 'Rubrobacter_xylanophilus_DSM_9941_gi_108803856_ref_YP_643793.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Rubrobacter_xylanophilus_DSM_9941_'
+------------------------------------------------------------
+------------------------------------------------------------
+--------------------------------------------------MVGSLTRD-I
+RCSAATKTAP---ARKTRRAPSREPRYRVILHNDDWTPMDHVVAALMKVVPRLSLRRAVS
+IMLEAHTKGQAVVTRCHRELAELYREGLKAEGLIST-IEPD----------G
+[2] Trichodesmium_erythraeum_IMS101_gi_113474895_ref_YP_720956.1__clpS_gene_product__Trichodesmium_erythraeum_IMS101_
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------IETIEKP--
+---------------TTSTVRKTAPHYRVLLHNDDFNSMEYVVQTLMKTVPSLTQPQAVN
+IMMEAHSNGIALVIICALEPAEFYCENLKNHGLTST-IEPD----------E
+[3] 'Crocosphaera_watsonii_WH_8501_gi_67924069_ref_ZP_00517517.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Crocosphaera_watsonii_WH_8501_'
+------------------------MT----------------------------------
+------------------------------------------------------------
+---------------------------------------------------TDVIEKP--
+-------------SSSTSTVRKPAPRYRVLLHNDDFNSMEYVVQTLMQTVPSITQPQAVD
+IMMEAHSNGTALVITCALEPAEFYSETLKNHGLTST-IEPD----------E
+[4] Anabaena_variabilis_ATCC_29413_gi_75907498_ref_YP_321794.1__clpS_gene_product__Anabaena_variabilis_ATCC_29413_
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETIEKR--
+-----------------STSRKLAPRYRVLLHNDDYNSMEYVVQVLITTVPSLTQPQAVS
+IMMEAHTNGLALVITCAQEHAEFYCETLKDHGLSST-IEPD----------E
+[5] 'Fischerella_sp._JSC-11_gi_354566131_ref_ZP_08985304.1__ATP-dependent_Clp_protease_adapter_protein_clpS__Fischerella_sp._JSC-11_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETQQKR--
+-----------------STSRKLAPQYRVLLHNDDYNTMEYVVQVLLTTVPSLTQPQAVS
+IMMEAHSNGLALVITCAQEPAEFYCETLKNHGLTST-IEPE----------E
+[6] 'Raphidiopsis_brookii_D9_gi_282897015_ref_ZP_06305017.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Raphidiopsis_brookii_D9_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETIEKP--
+-----------------STTRKLAPRYRVLLHNDDYNSMEYVVQVLLSTIPSLTQPQAVT
+IMMEAHSNGLALVISCALEHAEFYCESLNNHGLTST-IEPD----------D
+[7] 'Cylindrospermopsis_raciborskii_CS-505_gi_282899028_ref_ZP_06307010.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Cylindrospermopsis_raciborskii_CS-505_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETIEKP--
+-----------------STTRKLAPRYRVLLHNDDYNSMEYVVQVLLSTIPSLTQPQAVS
+IMMEAHSHGLALVISCALEHAEFYCESLNNYGLTST-IEPD----------D
+[8] 'Arthrospira_maxima_CS-328_gi_209523998_ref_ZP_03272550.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Arthrospira_maxima_CS-328_'
+MALVCFGIDKFPDHCNFVNGGDGSVS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------TQTVEKT--
+-----------------STNRKLAPRYRVLLHNDDYNPMEYVVQVLMSTVPGLTQPQAVS
+IMMEAHTNGLALVITCALEHAEFYCETLKNHGLTST-IEPD----------E
+[9] 'Acaryochloris_sp._CCMEE_5410_gi_359457944_ref_ZP_09246507.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Acaryochloris_sp._CCMEE_5410_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETLEKR--
+-----------------STGRKLAPKYRVLLHNDDFNSMEHVVQVLIQTVPNLTQPQAVS
+VMMEAHTNGIALVITCAFEHAEFYCETLKMHGLTST-IEPD----------E
+[10] 'Nostoc_azollae_0708_gi_298490087_ref_YP_003720264.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Nostoc_azollae_0708_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETIEKR--
+-----------------STTRKLAPQYRVLLHNDDYNSMEYVVQVLMTSVPSITQPQAVN
+IMMEAHNSGLALVITCAQEHAEFYCETLKGHGLSST-IEPD-----------
+[11] 'Oscillatoria_sp._PCC_6506_gi_300868553_ref_ZP_07113170.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Oscillatoria_sp._PCC_6506_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETIEKR--
+-----------------STVRKIAPRYRVLLHNDDFNSMEYVVQTLMHTVPSLTQPQAVN
+IMMEAHTNGLAVVIICAQEHAEFYSETLNNHGLIST-IEPD----------E
+[12] 'Microcoleus_vaginatus_FGP-2_gi_334120716_ref_ZP_08494794.1__ATP-dependent_Clp_protease_adapter_protein_clpS__Microcoleus_vaginatus_FGP-2_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VEIIQKA--
+-----------------STVRKLAPRYRVLLHNDDFNPMEYVVQTLMATVPSLTQPQAVN
+VMMEAHTNGMGLVIVCALEHAEFYAETLNNHGLSSS-IEPD----------D
+[13] 'Thermosynechococcus_elongatus_BP-1_gi_22297755_ref_NP_681002.1__clpS_gene_product__Thermosynechococcus_elongatus_BP-1_'
+------------------MEAWPTMS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VQTIEKP--
+-----------------ATVRKLAPRYRVLLHNDNVNSMEYVVEVLLKTVPSLTQPQAVD
+IMMEAHLTGVALVITCALEHAEFYCEGLKMAGLTST-IEPT----------E
+[14] Microcystis_aeruginosa_PCC_7806_gi_159029424_emb_CAO90801.1__unnamed_protein_product__Microcystis_aeruginosa_PCC_7806_
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------TEVIEKR--
+---------------STATIRKPAPRYRVLLHNDDFNSMEYVVQSLMQTIAGMTQPQAVD
+IMMEAHTNGTALVITCIQEHAEFYCETLKNKGLTSS-IEPD----------E
+[15] 'Cyanothece_sp._PCC_7424_gi_218438615_ref_YP_002376944.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Cyanothece_sp._PCC_7424_'
+----------------------MSTS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------TQVIEKS--
+---------------TTSTVRKPAPRYRVLLHNDDFNSMEYVVQTLMKTVAGMTQPQAVN
+IMMEAHTNGTALVITCTLEHAEFYCETLKNHGLTST-IEPD----------E
+[16] REF_Synechococcus_7942_ClpS1_REF
+------------------------MA----------------------------------
+------------------------------------------------------------
+---------------------------------------------------VETIQKP--
+---------------ETTTKRKIAPRYRVLLHNDDFNPMEYVVMVLMQTVPSLTQPQAVD
+IMMEAHTNGTGLVITCDIEPAEFYCEQLKSHGLEQQ---------------H
+[17] 'Gloeobacter_violaceus_PCC_7421_gi_37520315_ref_NP_923692.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Gloeobacter_violaceus_PCC_7421_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+---------------------------------------------------TETLERK--
+-----------------SVQRKPMPLYKVLLHNDDHTPMNYVIEVLMKTIPKMQPSKARK
+IMLEAHNGGVAVVIVCALEHAEFYSESLNRHNLTST-YEPD----------C
+[18] 'Prochlorococcus_marinus_str._MIT_9211_gi_159904162_ref_YP_001551506.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Prochlorococcus_marinus_str._MIT_9211_'
+------------------------MS----------------------------------
+------------------------------------------------------------
+------------------------LVDWNYLPTGIMVEATGS-----SPGGATVIEKQ--
+----------------SELVRKRSPRYKVLLHNDPVNSMDYVVTTLRQVVPQLSEQDALA
+VMLEAHNTGVGLVIVCDLEPAEFYSESLKAKGLSST-IEKE----------T
+[19] Oryza_sativa_Japonica_Group_gi_115476544_ref_NP_001061868.1__Os08g0432500__Oryza_sativa_Japonica_Group_
+------------------------MEAAVPSRV---------------------------
+---------------------------------------------------ALS-ASRLS
+NHHHHA-VGGERYAI---------YRGRCPNPAIPMALAAAA----APGKGGGVLDRP-I
+EKV-TPGRQS---EFDVRKSRKMTPPYRVLLHNDNYNRREYVVQVLMKVIPGMTVDNAVN
+IMQEAHVNGLSVVIICSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[20] Oryza_sativa_Japonica_Group_gi_125603506_gb_EAZ42831.1__hypothetical_protein_OsJ_27419__Oryza_sativa_Japonica_Group_
+------------------------MEAAVPSRC---------------------------
+-----------------------------------------------------G-ALREP
+ALQPPP-PRGERYAI---------YRGRCPNPAIPMALAAAA----APGKGGGVLDRP-I
+EKV-TPGRQS---EFDVRKSRKMTPPYRVLLHNDNYNRREYVVQVLMKVIPGMTVDNAVN
+IMQEAHVNGLSVVIICSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[21] 'Zea_mays_gi_195652021_gb_ACG45478.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS_containing_protein__Zea_mays_'
+------------------------MMASVPSRV---------------------------
+---------------------------------------------------ALSAASRLP
+N--LHA-VAGDRSFI---------YKRRCPSLSIPMAL-SAA----APGKGGGVLDRP-V
+EKI-TPGRQS---EFDVKKSRKMTPPFRVILHNDNHNRREYVVQVLMKVIPGMTVDNALS
+IMQEAHVNGLSVVIVCSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[22] 'Zea_mays_gi_226506038_ref_NP_001150373.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS_containing_protein__Zea_mays_'
+------------------------MEAAVPSRV---------------------------
+---------------------------------------------------ALSAASRLP
+N--PHA-VTGDRSFI---------YKGRCQSLAIPMAL-SAA----APGKGGGVLDRP-V
+EKT-TPGRQS---EFDVKKSRKMSPPYRVILHNDNYNRREYVVKVLMKVIPGMTVDNAVN
+IMQEAHVNGLSVVIVCSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[23] 'Brachypodium_distachyon_gi_357147864_ref_XP_003574520.1__PREDICTED__ATP-dependent_Clp_protease_adapter_protein_ClpS-like__Brachypodium_distachyon_'
+------------------------MEAAVPSRI---------------------------
+---------------------------------------------------ALS--ARIM
+N--HHVVAAGGRSSI---------YRGRYPNIAIPIVVT-------AAGKGGGVLDRP-A
+EKI-SPGRQS---EFDVKKSRKMSPPYRVVLHNDNENRREYVVQVLMKVIPGMTVDNAVN
+IMQEAHVNGLAVVIVCSQSEAEEHCTSLRGNGLRSS-IEPASGG-------C
+[24] 'Arabidopsis_thaliana_gi_145326694_ref_NP_001077794.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Arabidopsis_thaliana_'
+------------------------METAICGRL---------------------------
+---------------------------------------------------ALA-----P
+SSLFNS-KSGDKHLV---------SKGPCVNRSILMTLSTSA----ALGKGGGVLDKPII
+EKT-TPGRES---EFDLRKSKKIAPPYRVILHNDNFNKREYVVQVLMK------------
+------------------ADAEQHCMQLRGNGLLSS-VEPDGGG-------C
+[25] Arabidopsis_lyrata_subsp._lyrata_gi_297841589_ref_XP_002888676.1__hypothetical_protein_ARALYDRAFT_894639__Arabidopsis_lyrata_subsp._lyrata_
+------------------------METAICGRL---------------------------
+---------------------------------------------------ALA-----P
+SSLFNS-KSGDKHLV---------SKGPCVNRGVLMTLSTYA----ALGKGGGVLDKPII
+EKT-TPGRES---EFDLRKSKKMAPPYRVILHNDNFNKREYVVQVLMKVIPGMTVDNAVN
+IMQEAHINGLAVVIVCAQADAEQHCMQLRGNGLLSS-VEPDGGG-------C
+[26] REF_Arabidopsis_thaliana_ClpS_REF
+------------------------METAICGRL---------------------------
+---------------------------------------------------ALA-----P
+SSLFNS-KSGDKHLV---------SKGPCVNRSILMTLSTSA----ALGKGGGVLDKPII
+EKT-TPGRES---EFDLRKSKKIAPPYRVILHNDNFNKREYVVQVLMKVIPGMTVDNAVN
+IMQEAHINGLAVVIVCAQADAEQHCMQLRGNGLLSS-VEPDGGG-------C
+[27] 'Vitis_vinifera_gi_225455872_ref_XP_002274839.1__PREDICTED__ATP-dependent_Clp_protease_adapter_protein_ClpS__Vitis_vinifera_'
+------------------------METAICGRV---------------------------
+---------------------------------------------------PLS-----P
+NHFFTS-KSGDKHSL---------SK-QWTHRTMLMTVSA-A----APGKGSGVLERPTI
+ERI-MPGRES---EFDLRKSRKMSPPYRVLLHNDNYNKREYVVQVLMKVIPGMTLDNAVN
+IMQEAHHNGMSVVIICAQVDAEDHCMQLRGNGLLSS-IEPASGG-------C
+[28] Populus_trichocarpa_gi_224099343_ref_XP_002311446.1__predicted_protein__Populus_trichocarpa_
+------------------------METAICGRI---------------------------
+---------------------------------------------------ALS-----P
+NHVFNP-KPGDKNSV---------CRGPCANRGILMAIST-T----CSGKGGGLLEKPVI
+ERT-TPGRES---EFDLRKSKKMAPPYRVMLHNDNYNKREYVVQVLMKVIPGMTLDNAVN
+IMQEAHYNGLSVVIICAQADAEEHCMQLRGNGLLSS-IEPASGG-------C
+[29] Populus_trichocarpa_gi_224111728_ref_XP_002315955.1__predicted_protein__Populus_trichocarpa_
+------------------------METAICGRI---------------------------
+---------------------------------------------------ALS-----P
+NHVFNP-KPGDKNSV---------CRGPCASRGILMSISA-TVSGKGGGGGGGILEKPVI
+ERT-TPGRES---EFDLRKSKKMAPPYRVILHNDNYNKREYVVQVLMKVIPGMTLDNAVN
+IMQEAHYNGLSVVIICTQADAEEHCMQLRGNGLLSS-IEPASGG-------C
+[30] Glycine_max_gi_351723283_ref_NP_001234970.1__uncharacterized_protein_LOC100527361__Glycine_max_
+------------------------MKSAICGRI---------------------------
+----------------------------------------------------LS-----P
+NHVF---KPGDTHSI---------CKGPYSNLCVPMAVLA-T----GPGKGGGVLEKPVI
+EKV-TPGRES---EFDLKKSRKSAPPYRVILHNDNFNKREYVVQVLMKVIPGMTLDNAVN
+IMQEAHYNGLSVVIICDQADAEDHCTQLRGNGLLSS-IEPASGG-------C
+[31] 'Medicago_truncatula_gi_357488429_ref_XP_003614502.1__ATP-dependent_Clp_protease_adapter_protein_clpS__Medicago_truncatula_'
+------------------------MKSAICRSM---------------------------
+---------------------------------------------------GLS-----P
+NHLF---ISGDRYSF---------CKGPYSNLCVPMAVLT-K----GSGKGGGILEKPVI
+EKA-TPGRES---EFDLKKSRKTAPPYRVILHNDNFNKREYVVQVLMKVIPGMTLDNAVN
+IMQEAHHNGMSVVIICAQADAEDHCMQLRGNGLLSS-IEPAGDG-------C
+[32] Picea_sitchensis_gi_294460817_gb_ADE75982.1__unknown__Picea_sitchensis_
+------------------------MASVIYSRL---------------------------
+---------------------------------------------------ILP-----Q
+PQLYQQ-KSGEKISQ---------SKGACMNR-VFSAIRSTS----PGGKGGGLLERPTI
+EKT-TPGRES---EFDLRKSRKTSPPYRVLLHNDNYNKREYVVQVLMKVIPGMTLDTAVN
+IMQEAHYNGLAVVIICAQVDAEEHCTQLRGNGLLSS-IEPASDG-------C
+[33] 'Glycine_max_gi_356531226_ref_XP_003534179.1__PREDICTED__ATP-dependent_Clp_protease_adapter_protein_ClpS-like__Glycine_max_'
+------------------------MEAALCSAL---------------------------
+---------------------------------------------------ALS-----P
+NQVFNAANPGDKNVP---------LK-YSKDRSVVMTVAATG----ILGKGGGLLERPTI
+ETT-SPGRES---EFDLRKSRKTSPPYRVLLHNDNFNKREYVVQVLMKVIPGMTIDNAVN
+IMQEAHYNGLAVVIVCAQVDAEDHCMQLRGNGLLSS-IEPADGGG------C
+[34] Vitis_vinifera_gi_297737852_emb_CBI27053.3__unnamed_protein_product__Vitis_vinifera_
+------------------------MENAICGRL---------------------------
+---------------------------------------------------ALS-----P
+NHVFNS-KSGDKHSL---------LKGPCTNRSFLMAISA-S----GPGK-GGLLERPVI
+EKV-TPGRES---EFDLRKSRKIAPPYRVILHNDNYNKREYVVQVLMK------------
+------------------ADAEDHCMQLRGNGLLSS-IEPASGG-------C
+[35] Physcomitrella_patens_gi_121489819_emb_CAK19331.1__putative_adaptor_protein_ClpS__Physcomitrella_patens_
+------------------------MAGSLRLFV---------------------------
+---------------------------------------------------SIP-----A
+TARHFGINGVEKAQR---------VHNRVNGR---YKINAAS----GPSQGGGVLDRPTI
+DKP-TPGRES---EFDLKKKKKISPPYRVMLHNDNFNKREYVVQVLMKAIPGMTVDIAVN
+VMNEAHINGLAVVIVCPQEDAEDYCMQLRTNGLLSS-IEPAS---------C
+[36] Selaginella_moellendorffii_gi_302761288_ref_XP_002964066.1__hypothetical_protein_SELMODRAFT_142341__Selaginella_moellendorffii_
+------------------------MACTLTQVA---------------------------
+---------------------------------------------------HLWPSTSQV
+SRFNTIFAEADK------------CHKCFTRIIASHAVRAAL----PGGLGGGVLDKPAI
+ETAPTPGRES---EFDLRKKKKMAPPYRVILHNDNFNRREYVVQVLMKVIPGMTLDNAVN
+IMQEAHHNGLSVVIVCSQEDAEEHCTQLRANGLLSS-IEPASGGS------C
+[37] Chlorella_variabilis_gi_307105846_gb_EFN54094.1__hypothetical_protein_CHLNCDRAFT_31972__Chlorella_variabilis_
+------------------------MTICVGQRL---------------------------
+------------------------------------------------------------
+GGQAVAGKAGDKPPTRGAWLVPAGATRRSAQRRARLHVAARS-----AGKGGGVLDRP--
+------GVLP-GQQRGRETRRRRPPSYRVLLHNDNYNRREYVVQVLMKVVEGTTVDDAVN
+IMQEAHINGLAMVTQCAQDKAELYCESLRLNGLIAT-IEPAGTGGSDGTSSS
+[38] Chlamydomonas_reinhardtii_gi_159467236_ref_XP_001691804.1__clp_protease_adaptor_protein__Chlamydomonas_reinhardtii_
+------------------------MM----------------------------------
+------------------------------------------------------------
+TRSPVAGLPRPCSALQRSGCTLQGAFGTFAPQTTRTFVVTWA--------KGGVMDAP--
+----TTTQQP---ASGVERSQKRPPIYKVLLHNDNYNKREYVVKVLLKVVEQITVDDAVT
+CMQEAHETGVALVVACPQDNAERYCEGLRLNGLTST-IEPGG---------C
+[39] Volvox_carteri_f._nagariensis_gi_302834902_ref_XP_002949013.1__hypothetical_protein_VOLCADRAFT_73976__Volvox_carteri_f._nagariensis_
+------------------------MAASVLRPP---------------------------
+-------------------------------------------------------PVSVA
+SRAPTAALAVLPGSACLGWRRANFGTSTLLSQTTRTCVQMRA-------GVPGLLDSP--
+----TITSEP---QQGTDRAYKRPPIYKVFLHNDNYNKREYVVKVLLKVVEEITVDDAVT
+VMQEAHETGVALVVACPQENAERYCEGLRLNGLTST-IEPAG---------R
+[40] 'Ktedonobacter_racemifer_DSM_44963_gi_298245523_ref_ZP_06969329.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Ktedonobacter_racemifer_DSM_44963_'
+------------------------MAQRQCQPS---------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----RLEIRP---EEVVRQRSSLLPLYKVILFNDDYNDMLHVVAALLETVNTLTMQEATH
+IMLTAHLNGNAIVIVCPHELAEHYQERLLGYALTVT-IEPE-----------
+[41] Guillardia_theta_gi_57335897_emb_CAH25350.1__hypothetical_protein__Guillardia_theta_
+------------------------RICACVRSAWSFPVAFPAHLHHPLLRAVCFFIKWIS
+SILWFMMGRQVLAALALLPLAWCFQAPTSFLPGTRGITQQTCATLRPAVLGKMQLEAPER
+IKIPDTFNPAEWGVGGGKGGFGDGLGGFKVPDSFNPAEMEKE----RQGGRTAVMDRP--
+-----------------SDKTDPGKKYKVLLFNDDKNTRQYVIDTLMKYIPGMTADKAKE
+ITVAAHNTGMAIVGVWMYEMAEAYSDVLRSAGLRSD-IDPE-----------
+[42] Trichodesmium_erythraeum_IMS101_gi_113477268_ref_YP_723329.1__clpS_gene_product__Trichodesmium_erythraeum_IMS101_
+------------------------------------------------------------
+---------------MS----------------------------LGISII---------
+--------------------------------------------------GIIENIAVRG
+GASSPTTLAP---KKDSQVVNKPYPNYKVIVLNDDVNTFKHVAECLQKYIPGMTSDRAWE
+LTYQVHNEGQAIVWVGPLEQAELYHQQLSRAGLTMAPLEKA-----------
+[43] 'Oscillatoria_sp._PCC_6506_gi_300864591_ref_ZP_07109450.1__ATP-dependent_Clp_protease_adaptor__Oscillatoria_sp._PCC_6506_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MTSSPTIAP---DRSSQVTRKPYPNYKVIVLNDDFNTFQHVSECLVKYIPGMTSDRAWK
+LTNQVHYEGQATVWVGPQEQAELYHMQLSRAGLTMAPLEQA-----------
+[44] 'Microcoleus_vaginatus_FGP-2_gi_334119600_ref_ZP_08493685.1__ATP-dependent_Clp_protease_adapter_protein_clpS__Microcoleus_vaginatus_FGP-2_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MTSSPTIAP---VRSSQVTRKPYPNYRVIVLNDDFNTFQHVVECLTKYIPGMTSDQAWK
+LANQIHHEGQATVWVGPQEQAELYHMQLSRAGLTMAPLEST-----------
+[45] 'Arthrospira_maxima_CS-328_gi_209526864_ref_ZP_03275384.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Arthrospira_maxima_CS-328_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MIASPTTTP---SRSSQTVRKPYPNYKVIVLNDDFNTFQHVANCLMKYLPGMTSDQAWE
+LTNRVHYEGQATVWVGPLEQAELYHTQLSREGLTMAPLEKA-----------
+[46] Anabaena_variabilis_ATCC_29413_gi_75909055_ref_YP_323351.1__clpS_gene_product__Anabaena_variabilis_ATCC_29413_
+------------------------------------------------------------
+---------------MV----------------------------TKLS-----------
+--------------------------------------------------------IDVY
+AMSTAPTVTP---ERSNQTVRKSYPNYKVIVLNDDFNTFQHVAECLVKYIPGMTGDLAWD
+LTNQVHYEGQAIVWVGPQEPAELYHQQLRRAGLTMAPLEAA-----------
+[47] 'Fischerella_sp._JSC-11_gi_354566811_ref_ZP_08985982.1__ATP-dependent_Clp_protease_adapter_protein_clpS__Fischerella_sp._JSC-11_'
+------------------------------------------------------------
+---------------MI----------------------------TKLS-----------
+--------------------------------------------------------AAVY
+AMAATPTIAP---ERSTQVTRKPYPNYKVIVLNDDFNTFQHVAECLVKYIPGMTSDRAWE
+LTNQVHYEGQAIVWTGPQEPAELYHQQLRRAGLTMAPLEAA-----------
+[48] 'Nostoc_azollae_0708_gi_298491120_ref_YP_003721297.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Nostoc_azollae_0708_'
+------------------------------------------------------------
+---------------ME----------------------------TRLA-----------
+--------------------------------------------------------AVYY
+DMATAPTVTP---DRVNQVTRKTYPNYKVIVLNDDFNTFQYVAECLMKYIPGMSGDLAWD
+LTNQVHYEGQAIVWVGPQEPAELYHQQLRRAGLTMAPLEGA-----------
+[49] '>Crocosphaera_watsonii_WH_8501_gi_67924463_ref_ZP_00517887.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Crocosphaera_watsonii_WH_8501_'
+------------------------------------------------------------
+---------------MS----------------------------KRLS-----------
+--------------------------------------------------------IGIR
+GMATSTSTAP---KGATVVERKRYPNYKVIVLNDDFNTFDHVAKCLLKYIPGMSSDRAWE
+LTEQVHFEGLATVWTGPQEQAELYHQQLRREGLTMAPLEEA-----------
+[50] 'Cyanothece_sp._PCC_7424_gi_218441397_ref_YP_002379726.1__ATP-dependent_Clp_protease_adaptor__Cyanothece_sp._PCC_7424_'
+------------------------------------------------------------
+---------------MS----------------------------TNVA-----------
+--------------------------------------------------------AVVT
+AMTTAPTIAP---DKTTQVVKKTYPNYKVIVLNDDFNTFQHVANCLMKYIPGMTSDRAWE
+LTNQVHYEGQATVWVGPQEQAELYHQQLRREGLTMAPLEAA-----------
+[51] Microcystis_aeruginosa_PCC_7806_gi_159031002_emb_CAO88704.1__clpS__Microcystis_aeruginosa_PCC_7806_
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-MASAPSTTL---DKSTQGVKKTYPNYKVIVLNDDFNTFDHVANCLIKYIPDMTTDRAWE
+LTNQVHYQGQAIVWTGPQEPAELYHQQLRREGLTMAPLEAV-----------
+[52] 'Raphidiopsis_brookii_D9_gi_282895992_ref_ZP_06304023.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Raphidiopsis_brookii_D9_'
+------------------------------------------------------------
+---------------MK----------------------------TR-P-----------
+--------------------------------------------------------SPIY
+AMAPAPTVTP---DQGTQVIRKPYPNYKIIVLNDDFNTFEHVAKSLMKYIPGMTTEQAWE
+LTNQVHYEGQAIVWVGPQEQAELYHQQLRRAGLTMAPLEAA-----------
+[53] 'Cylindrospermopsis_raciborskii_CS-505_gi_282901708_ref_ZP_06309624.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Cylindrospermopsis_raciborskii_CS-505_'
+------------------------------------------------------------
+---------------MK----------------------------TR-P-----------
+--------------------------------------------------------SPVY
+AMASAPTVTP---DQGTQVVRKPYPNYKVIVLNDDFNTFEHVAKSLMKYIPGMTTEQAWE
+LTNQVHYEGQAIVWVGPQEQAELYHQQLRRAGLTMAPLEAA-----------
+[54] 'Thermosynechococcus_elongatus_BP-1_gi_22298631_ref_NP_681878.1__clpS_gene_product__Thermosynechococcus_elongatus_BP-1_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----MPSVVP---QERQQVTRKHYPNYKVIVLNDDFNTFQHVAACLMKYIPNMTSDRAWE
+LTNQVHYEGQAIVWVGPQEQAELYHEQLLRAGLTMAPLEPE-----------
+[55] 'Acaryochloris_sp._CCMEE_5410_gi_359459224_ref_ZP_09247787.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Acaryochloris_sp._CCMEE_5410_'
+------------------------------------------------------------
+------------------------------------------------------------
+---------------------------------------------------------MAI
+TAVQTPVTRP-EEKQAQKTVRKPYPNFKVIVVNDDVNTFEHVAKTLMTYIPHMTSDKAWE
+LTNQIHFEGQAIVWVGPQEQAELYHMQLQRAGLTMAPLEAA-----------
+[56] REF_Synechococcus_7942_ClpS2_REF
+------------------------MLPSPFRPQTTIASENVKTASKAAQPKVNSSMSPQP
+DESVLSILGVPRPCVKK----------------------------RSRDDA---------
+--------------------------------------------------FVLTVLTCSL
+QAIAAPATAP---GTTTTRVRQPYPHFRVIVLDDDVNTFQHVAECLLKYIPGMTGDRAWD
+LTNQVHYEGAATVWSGPQEQAELYHEQLRREGLTMAPLEAA-----------
+[57] 'Gloeobacter_violaceus_PCC_7421_gi_37521807_ref_NP_925184.1__ATP-dependent_Clp_protease_adaptor__Gloeobacter_violaceus_PCC_7421_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+--MSSATVTP---TKPETSVKALKP-WKVIVLNDDFNTFQHVANCLVKYIPHMHPDRAWK
+LTQQVHSEGRAIVWVGPLEQAELYHEQLSREGLTMAPLEQA-----------
+[58] Prochlorococcus_marinus_str._MIT_9211_gi_159904055_ref_YP_001551399.1__hypothetical_protein_P9211_15141__Prochlorococcus_marinus_str._MIT_9211_
+----------------------------------------------MRETKRRNQCSRRA
+HQKDASRNGRPLLLMMD----------------------------KKIMTR---------
+--------------------------------------------------HTKDFVATTA
+MKFSANSTTT---VLDPKTTKKKYPEARIIVLDDNFNTFEHVANCLVTIIPGMSEKRSWV
+LAVEVDREGLAEVWRGPLEQAELYHQQLISKGLTMAPIEKT-----------
+[59] 'Conexibacter_woesei_DSM_14684_gi_284045641_ref_YP_003395981.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Conexibacter_woesei_DSM_14684_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---MGQTIEK---QRVQGPGSGLGGNWRVIVKNDDHNTFDHVARTLARYIPGVTIAVGYD
+YADRIHNSGQAIVWSGQREVAELYWEQLQGAGLTMAPLEQG-----------
+[60] 'Patulibacter_sp._I11_gi_367468593_ref_ZP_09468447.1__ATP-dependent_Clp_protease_adaptor_protein_ClpS__Patulibacter_sp._I11_'
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+---MSQTIEQ---TRAADPGTGLGGAWNVIVRNDDHNTFDHVATTLARVIPGVNVDAGFR
+LADRIHQAGLAVVWTGHKELAEHYWEQLRDAGLTMAPLEQA-----------
+[61] Gloeobacter_violaceus_PCC_7421_gi_37522100_ref_NP_925477.1__hypothetical_protein_gll2531__Gloeobacter_violaceus_PCC_7421_
+------------------------------------------------------------
+---------------MLSSAEAPSPGTVQWAPNGQKAQDRQHRVASVHVTGLAASGYLAV
+ASYPASRQPGDVQKRLRWGAIVVSFGYTGTQDDYPHASMERM-----------VLAPAAV
+SAPPLPTKTPLDPVKTPEKTPLRWRDWVVRLFNDPVNKFEHVVESLCKHVPGMSQDMAWS
+VAWQAHREGVAATYQGPREVAELVCEKLVRDGLISDCCES------------
+;
+END;

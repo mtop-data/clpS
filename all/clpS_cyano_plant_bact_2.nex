@@ -1,0 +1,199 @@
+#NEXUS
+[saved by seaview on Wed May  9 21:53:43 2012]
+BEGIN DATA;
+  DIMENSIONS NTAX=63 NCHAR=92;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_3792
+rkpypnfkvivvnddvntfehvaktlmtyiphmtsdkaweltnqihfegqaivwvgpqeq
+aelyhmqlqrag------ltmapleaa-----
+[2] Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_3450
+rksypnykvivlnddfntfqhvaeclvkyipgmtgdlawdltnqvhyegqaivwvgpqep
+aelyhqqlrrag------ltmapleaa-----
+[3] Nostoc_sp_PCC_7120_gnl_BL_ORD_ID_714
+rktypnykvivlnddfntfqhvaeclvkyipgmtgdlawdltnqvhyegqaivwvgpqep
+aelyhqqlrrag------ltmapleaa-----
+[4] Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3650
+rktypnykvivlnddfntfqhvaeclmkyipgmsgdrawdltnqvhyegqaivwvgpqep
+aelyhqqlrrag------ltmapleaa-----
+[5] Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_1770
+rktypnykvivlnddfntfqhvseclmkyipgmtgdrawdltnqihyegqaivwvgpqem
+aelyhqqlrrag------ltmapleaa-----
+[6] Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_1627
+rkpypnykvivlnddfntfqhvanclmkylpgmtsdqaweltnrvhyegqatvwvgpleq
+aelyhtqlsreg------ltmapleka-----
+[7] Lyngbya_sp_CCY_8106_gnl_BL_ORD_ID_4005
+qqpypnykvivlnddfntfehvssclmkyipgmnsdlawkltnqvhfegqatvwvgpleq
+aelyhtqlsreg------ltmapleka-----
+[8] Oscillatoria_sp_PCC_6506_gnl_BL_ORD_ID_1058
+rkpypnykvivlnddfntfqhvseclvkyipgmtsdrawkltnqvhyegqatvwvgpqeq
+aelyhmqlsrag------ltmapleqa-----
+[9] Microcoleus_chthonoplastes_PCC_7420_gnl_BL_ORD_ID_3381
+rkpypnykvivldddfntfqhvhdclvkyipgmssdyawkltnqvhfegqaivwvgpqeq
+aelyhqqlsrag------ltmapleaa-----
+[10] Cylindrospermopsis_raciborskii_CS_505_gnl_BL_ORD_ID_3110
+rkpypnykvivlnddfntfehvakslmkyipgmtteqaweltnqvhyegqaivwvgpqeq
+aelyhqqlrrag------ltmapleaa-----
+[11] Raphidiopsis_brookii_D9_gnl_BL_ORD_ID_516
+rkpypnykiivlnddfntfehvakslmkyipgmtteqaweltnqvhyegqaivwvgpqeq
+aelyhqqlrrag------ltmapleaa-----
+[12] Thermosynechococcus_elongatus_BP_1_gnl_BL_ORD_ID_1087
+rkhypnykvivlnddfntfqhvaaclmkyipnmtsdraweltnqvhyegqaivwvgpqeq
+aelyheqllrag------ltmaplepe-----
+[13] Synechococcus_sp_PCC_7002_gnl_BL_ORD_ID_2207
+rkpypnfkvivlnddfntfehvahclmtyipnmtadqawnltnqvhfdgqaivwvgpqep
+aelyhqqlrreg------ltmapleaa-----
+[14] Trichodesmium_erythraeum_IMS101_gnl_BL_ORD_ID_3325
+nkpypnykvivlnddvntfkhvaeclqkyipgmtsdraweltyqvhnegqaivwvgpleq
+aelyhqqlsrag------ltmapleka-----
+[15] ClpS2_Synechococcus_7942_ClpS2
+rqpyphfrvivldddvntfqhvaecllkyipgmtgdrawdltnqvhyegaatvwsgpqeq
+aelyheqlrreg------ltmapleaa-----
+[16] Cyanothece_PCC_7425_gnl_BL_ORD_ID_3769
+rqpyphykvivlnddfntfehvakclmkyipnmtsdraweltyqvdregqaivwvgpqeq
+aelyhlqlgqag------ltmaplela-----
+[17] Cyanobacterium_sp_UCYN_A_gnl_BL_ORD_ID_272
+ykpypnckiivlnddfntfdhvancliryipamtkshaweltqkihfngfatvwmgpleq
+aelyhqqlrreg------ltmaplegi-----
+[18] Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2237
+kalkp-wkvivlnddfntfqhvanclvkyiphmhpdrawkltqqvhsegraivwvgpleq
+aelyheqlsreg------ltmapleqa-----
+[19] Synechococcus_sp_WH_8109_gnl_BL_ORD_ID_1922
+tqrypqarvivldddvntfqhvvdclrkiipgmsednawnlanridghgaaevwcgpleq
+aelyhqqlqseg------ltmaplerc-----
+[20] Synechococcus_WH_8102_gnl_BL_ORD_ID_1299
+tqrypqarvivldddvntfqhvvdclrkiipgmseekawslanridgqgsaevwcgpleq
+aelyhqqlaaeg------ltmaplerc-----
+[21] Synechococcus_sp_CC9902_gnl_BL_ORD_ID_1044
+tqrypeakvivldddvntfqhvvdclrkiipgmdeekawglahridgqgsaevwrgpleq
+aelyhlqlqteg------ltmapldrc-----
+[22] Synechococcus_sp_RS9916_gnl_BL_ORD_ID_1876
+tqgypearvivlnddvntfqhvvdclckiipgmgterawdlahqvdgqgsaevwcgpleq
+aelyhqqltgeg------ltmapierc-----
+[23] Synechococcus_WH_7803_gnl_BL_ORD_ID_1209
+aqrypqarvivlnddfntfehvveslcriipgmntekawslahridgegaaevwcgpleq
+aelyhqqlgaeg------ltmapierc-----
+[24] Synechococcus_sp_RS9917_gnl_BL_ORD_ID_1372
+rsdypqarvivldddvntfqhvvdclcriipgmgserawdlahridsegaadvwsgpleq
+aelyhqqlsaeg------ltmaplerc-----
+[25] Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_5473
+rklapkyrvllhnddfnsmehvvqvliqtvpnltqpqavsvmmeahtngialvitcafeh
+aefycetlkmhg------lt-stiepde----
+[26] Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_1891
+rklapryrvllhnddynsmeyvvqvlittvpsltqpqavsimmeahtnglalvitcaqeh
+aefycetlkdhg------ls-stiepde----
+[27] Nostoc_sp_PCC_7120_gnl_BL_ORD_ID_4631
+rklapryrvllhnddhnsmeyvvqvlittvpsltqpqavsimmeahtnglalvitcaqeh
+aefycetlkdhg------ls-stiepde----
+[28] Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_2031
+------------------mehvvqslittvpsltqpqavsimmeahtngmalvitcaqeh
+aefycetlkshg------ls-stiepde----
+[29] Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3476
+rklapryrvllhnddynsmehvvqsliatvpsltqpqavsimmeahtnglalvitcaleh
+aefycetlishg------ls-stiepde----
+[30] Cylindrospermopsis_raciborskii_CS_505_gnl_BL_ORD_ID_496
+rklapryrvllhnddynsmeyvvqvllstipsltqpqavsimmeahshglalviscaleh
+aefyceslnnyg------lt-stiepdd----
+[31] Raphidiopsis_brookii_D9_gnl_BL_ORD_ID_1510
+rklapryrvllhnddynsmeyvvqvllstipsltqpqavtimmeahsnglalviscaleh
+aefyceslnnhg------lt-stiepdd----
+[32] Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_6367
+rklapryrvllhnddhnpmeyvvqvlmstvpgltqpqavsimmeahtnglalvitcaleh
+aefycetlknhg------lt-stiepde----
+[33] Lyngbya_sp_CCY_8106_gnl_BL_ORD_ID_3908
+------------------meyvvqvllqtvpsltqpqavsimmeahtnglalvitcaqeh
+aefycetlknng------lt-stiepde----
+[34] Microcoleus_chthonoplastes_PCC_7420_gnl_BL_ORD_ID_4785
+------------------meyvvqaliqtvpsltqpqavnimmeahnsgialvitcaleh
+aefycetlknhg------lt-stiepde----
+[35] Leptolyngbya_valderiana_BDU_20041_gnl_BL_ORD_ID_6
+rkhapryrvllhnddfntmeyvvqtlvktvpgltqpqavsimmeahtngmalvitcaqeh
+aefycetlrrhg------ls-ssiepdd----
+[36] Cyanothece_PCC_7425_gnl_BL_ORD_ID_3320
+rklapryrvllhnddvnsmehvvevllktvpsltqpqavdimmeahvngialvitcaleh
+aefyceslklgg------lt-stiepde----
+[37] Oscillatoria_sp_PCC_6506_gnl_BL_ORD_ID_4778
+rkiapryrvllhnddfnsmeyvvqtlmhtvpsltqpqavnimmeahtnglavviicaqeh
+aefysetlnnhg------li-stiepde----
+[38] Thermosynechococcus_elongatus_BP_1_gnl_BL_ORD_ID_210
+rklapryrvllhndnvnsmeyvvevllktvpsltqpqavdimmeahltgvalvitcaleh
+aefyceglkmag------lt-stiepte----
+[39] Trichodesmium_erythraeum_IMS101_gnl_BL_ORD_ID_952
+rktaphyrvllhnddfnsmeyvvqtlmktvpsltqpqavnimmeahsngialviicalep
+aefycenlknhg------lt-stiepde----
+[40] Synechococcus_sp_PCC_7002_gnl_BL_ORD_ID_2405
+rkpapryrvllhnddfnsmehvvqtlmqtvagltqpqavsimmeahtngialvitcvqeh
+aefycetlkmhg------lt-stiepde----
+[41] Cyanobacterium_sp_UCYN_A_gnl_BL_ORD_ID_939
+kkpvprykvllhnddfnpmdyvvqilmqtisgmtrpqaaeimmeahisgtalvitcafep
+aefyretlknhg------ls-ssiepde----
+[42] ClpS1_Synechococcus_7942_ClpS1
+rkiapryrvllhnddfnpmeyvvmvlmqtvpsltqpqavdimmeahtngtglvitcdiep
+aefyceqlkshg------le-qqh--------
+[43] Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_745
+rkpmplykvllhnddhtpmnyvievlmktipkmqpskarkimleahnggvavvivcaleh
+aefyseslnrhn------lt-styepdc----
+[44] Synechococcus_sp_RS9916_gnl_BL_ORD_ID_2779
+rkrsprykvllhndpvnsmeyvvstlqqvvpqlseqdamavmleahnsgvglvivcdlep
+aefycetlkakg------lt-stlepes----
+[45] Synechococcus_sp_RS9917_gnl_BL_ORD_ID_1996
+rkhsprykvllhndpvntmeyvvttlrqvvpqlseqdamavmleahntgvglvivcdlep
+aefycetlkakg------lt-stlepet----
+[46] Synechococcus_WH_7803_gnl_BL_ORD_ID_368
+rkqsprykvllhndpvnsmeyvvstlrqvvpqlseqdamavmleahntgvglvivcdlep
+aefycetlkgkg------lt-stiepen----
+[47] Synechococcus_WH_8102_gnl_BL_ORD_ID_2141
+rkqsprykvllhndpvntmeyvvttlrqvvpqlseqdamavmieahntgvglvivcdlep
+aefycetlkakg------lt-stiepet----
+[48] Synechococcus_sp_CC9902_gnl_BL_ORD_ID_2014
+rkrsprykvllhndpvnsmeyvmttlrqvvpqlseqdamavmleahntgvglvivcdiep
+aefycetlkskg------lt-ssieped----
+[49] Synechococcus_sp_WH_8109_gnl_BL_ORD_ID_198
+rkrsprykvllhndpvnsmeyvvatlqqvvpqlseqdcmavmleahntgvglvivcdiep
+aefycemlkskg------lt-ssiepee----
+[50] Brassica_rapa_gnl_BL_ORD_ID_16356
+kkmappyrvilhndnfnkreyvvqvlmkvipgmtvdnavnimqeahingmavvivcaqad
+aeqhcmqlrgng------ll-ssvepdggg-c
+[51] Populus_trichocarpa_gnl_BL_ORD_ID_43343
+kkmappyrvmlhndnynkreyvvqvlmkvipgmtldnavnimqeahynglsvviicaqad
+aeehcmqlrgng------ll-ssiepasgg-c
+[52] Medicago_truncatula_gnl_BL_ORD_ID_34263
+rktappyrvilhndnfnkreyvvqvlmkvipgmtldnavnimqeahhngmsvviicaqad
+aedhcmqlrgng------ll-ssiepagdg-c
+[53] Vitis_vinifera_gnl_BL_ORD_ID_4262
+rkmsppyrvllhndnynkreyvvqvlmkvipgmtldnavnimqeahhngmsvviicaqvd
+aedhcmqlrgng------ll-ssiepasgg-c
+[54] Aquilegia_coerulea_gnl_BL_ORD_ID_33124
+rkmsppyrvmlhndnynkreyvvqvlmkvipgmtvdnavnimqeahindlavviicaqad
+aeehctqlrgng------ll-ssiepasgg-c
+[55] Zea_mays_gnl_BL_ORD_ID_43912
+rkmsppyrvilhndnynrreyvvkvlmkvipgmtvdnavnimqeahvnglsvvivcsqse
+aeehctslrgng------lr-ssiepasgg-c
+[56] Oryza_sativa_gnl_BL_ORD_ID_6727
+rkmtppyrvllhndnynrreyvvqvlmkvipgmtvdnavnimqeahvnglsvviicsqse
+aeehctslrgng------lr-ssiepasgg-c
+[57] Volvox_carteri_gnl_BL_ORD_ID_608
+ykrppiykvflhndnynkreyvvkvllkvveeitvddavtvmqeahetgvalvvacpqen
+aeryceglrlng------lt-stiepag---r
+[58] Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_9005
+qkrppiykvllhndnynkreyvvkvllkvveqitvddavtcmqeahetgvalvvacpqdn
+aeryceglrlng------lt-stiepgg---c
+[59] Cyanophora_paradoxa_gnl_BL_ORD_ID_27119
+eefmgkwkvllhndeantmeyvikairtvvpnishqeavnimleahttgv-vvivcekeh
+aeyyceglkgyq------lw-ssiepedv---
+[60] Cyanidioschyzon_merolae_gnl_BL_ORD_ID_2238
+vdpgkkyklllfndekntrervvevllkcipglskldaqsimqkahttgmalvgvwvfel
+aeaycdllrseg------lv-sdiepae----
+[61] Cyanophora_paradoxa_gnl_BL_ORD_ID_23599
+kaqapkyrvllfndpfnkrehvv------idglttadaveimskahnegfavaavvvqev
+aelyveglrscg------lt-atcepde----
+[62] Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_3127
+tkrpnlyrvlilnddytpmefvvhvlekff-qmdveaatkvmlhvhhhgigecgvftyei
+aetkvtqvmdfarkhqhplq-cvmekk-----
+[63] Escherichia_coli_UTI89_gnl_BL_ORD_ID_1000
+lkppsmykvilvnddytpmefvidvlqkff-sydveratqlmlavhyqgkaicgvftaev
+aetkvamvnkyarenehpll-ctleka-----
+;
+END;

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.25+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/Users/mats/db/Phytozome/Vitis_vinifera/annotation/Vvinifera_145_peptide</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Synechococcus_7942_ClpS1</BlastOutput_query-def>
+  <BlastOutput_query-len>91</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Synechococcus_7942_ClpS1</Iteration_query-def>
+      <Iteration_query-len>91</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|4262</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01008253001|PACid:17820887 </Hit_def>
+          <Hit_accession>4262</Hit_accession>
+          <Hit_len>157</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>85.5001432226882</Hsp_bit-score>
+              <Hsp_score>210</Hsp_score>
+              <Hsp_evalue>4.46659562181073e-18</Hsp_evalue>
+              <Hsp_query-from>15</Hsp_query-from>
+              <Hsp_query-to>87</Hsp_query-to>
+              <Hsp_hit-from>74</Hsp_hit-from>
+              <Hsp_hit-to>146</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>40</Hsp_identity>
+              <Hsp_positive>52</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>73</Hsp_align-len>
+              <Hsp_qseq>RKIAPRYRVLLHNDDFNPMEYVVMVLMQTVPSLTQPQAVDIMMEAHTNGTGLVITCDIEPAEFYCEQLKSHGL</Hsp_qseq>
+              <Hsp_hseq>RKMSPPYRVLLHNDNYNKREYVVQVLMKVIPGMTLDNAVNIMQEAHHNGMSVVIICAQVDAEDHCMQLRGNGL</Hsp_hseq>
+              <Hsp_midline>RK++P YRVLLHND++N  EYVV VLM+ +P +T   AV+IM EAH NG  +VI C    AE +C QL+ +GL</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|7060</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01011936001|PACid:17823685 </Hit_def>
+          <Hit_accession>7060</Hit_accession>
+          <Hit_len>127</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>52.7581792697132</Hsp_bit-score>
+              <Hsp_score>125</Hsp_score>
+              <Hsp_evalue>3.28973440204572e-08</Hsp_evalue>
+              <Hsp_query-from>15</Hsp_query-from>
+              <Hsp_query-to>79</Hsp_query-to>
+              <Hsp_hit-from>74</Hsp_hit-from>
+              <Hsp_hit-to>127</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>30</Hsp_identity>
+              <Hsp_positive>36</Hsp_positive>
+              <Hsp_gaps>11</Hsp_gaps>
+              <Hsp_align-len>65</Hsp_align-len>
+              <Hsp_qseq>RKIAPRYRVLLHNDDFNPMEYVVMVLMQTVPSLTQPQAVDIMMEAHTNGTGLVITCDIEPAEFYC</Hsp_qseq>
+              <Hsp_hseq>RKIAPPYRVILHNDNYNKREYVVQVLMKA-------DAEDHCMQLRGNG----LLSSIEPASGGC</Hsp_hseq>
+              <Hsp_midline>RKIAP YRV+LHND++N  EYVV VLM+         A D  M+   NG    +   IEPA   C</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|25017</Hit_id>
+          <Hit_def>@Vitis_vinifera@_GSVIVT01036817001|PACid:17841642 </Hit_def>
+          <Hit_accession>25017</Hit_accession>
+          <Hit_len>927</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>24.6386102277464</Hsp_bit-score>
+              <Hsp_score>52</Hsp_score>
+              <Hsp_evalue>9.83706445394737</Hsp_evalue>
+              <Hsp_query-from>14</Hsp_query-from>
+              <Hsp_query-to>72</Hsp_query-to>
+              <Hsp_hit-from>730</Hsp_hit-from>
+              <Hsp_hit-to>788</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>26</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>59</Hsp_align-len>
+              <Hsp_qseq>KRKIAPRYRVLLHNDDFNPMEYVVMVLMQTVPSLTQPQAVDIMMEAHTNGTGLVITCDI</Hsp_qseq>
+              <Hsp_hseq>KRAIQVSFWCIQEQPSQRPMMGKVVQMLEGVTEIERPPAPKAAMEVSAGGTSINVSSNV</Hsp_hseq>
+              <Hsp_midline>KR I   +  +       PM   V+ +++ V  + +P A    ME    GT + ++ ++</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>26346</Statistics_db-num>
+          <Statistics_db-len>9959944</Statistics_db-len>
+          <Statistics_hsp-len>61</Statistics_hsp-len>
+          <Statistics_eff-space>250585140</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

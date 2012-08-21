@@ -1,0 +1,30 @@
+>gnl|BL_ORD_ID|34263 @Medicago_truncatula@_Medtr5g068520.1|PACid:17465914
+MA----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+----------------------------VLTKGSGKG-----------------------
+------------------------------------------------------------
+-------------------------------GGILEKPVIEKA---------TPGRESEF
+DLKKSR------------------------------------------------------
+------------------------------------------------------------
+----------------------------------------------KTAPPYRVILHN--
+---------------------DNFNKREYVVQVLMKVIPGMTLDNAVNIMQE--------
+-------------------------------------------------------AHHN-
+--------------------------------------GMSVVIICAQADAEDHCMQLRG
+NGLLSSIEPAG---------------------------------------D---------
+GC
+>gnl|BL_ORD_ID|5515 @Medicago_truncatula@_Medtr1g059520.1|PACid:17437166
+ME----------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+-------------------------KNDVCTSESFDGSRDVWSSKSSDSSSADHLVVMVN
+GILGSSTDWKFASEQFVKELPDKVFVHCSERNVSKHTLDGVDVMGERL------------
+----AEEVIEVIRRKPNMRKVS---FISHSVGGLVARYAI--------GKLYRPPGNEPI
+QDSGNKESKVDSIGTICGLEAMNFVTVATPHLGSRGNKQVPFLFGVTAFEKLASVVIHWI
+FRRTGRHLFLTDDDEGKPPLLKRMIEDYDGYYFMSALRTFKRRV----IYSNVGYDHIVG
+WRTSSIRRNNELPK--------------WEDTLNEKYPHVVYEELCKACDAEQCDLLK--
+---------------------D--NGSDKIEEELVTGLSSVSWEKVDVSFHS--------
+-------------------------------------------------------SRQR-
+--------------------------------------FAAHSVIQVKDQ----------
+---ISHIEGA----------------------------------------DVILHIIDHF
+LT

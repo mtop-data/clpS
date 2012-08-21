@@ -1,0 +1,20 @@
+>gnl|BL_ORD_ID|1401 @Homo_sapiens@ gi|33946297|ref|NP_892021.1| zinc finger protein 326 isoform 1 [Homo sapiens]
+MD----------------------------------------------------------
+--------------------------------------FE--------------------
+-------------------------------DDYTHSACRNTYQGFNGM-DRDYGPGSYG
+GMDRDY------------------------------------------------------
+-GHGSYG--------------GQRSMDSYLNQSYG-------------------------
+--------------------------------------------------MDNHSGGG--
+----GGSRF---------------GPYESYDSRSSLGGRD-------LYRSGYGFNE---
+---------PEQSRFG------------------------------------------GS
+YGGRFESSYRNSLDSFGGRNQGGSSWEAPYSRSKLRPGFMEDRGRENYSSYSSFSSPHMK
+PA---P------------VGSRGRGTPAYPESTFGSRNYDAFGGPSTGRGRGRGHMGDFG
+S-------IHRPGIVVDYQNKSTNVTVAAARGIKRKMM--------QPFNKPS--GTFIK
+KPKLAKPMEKIS---------LSKSPTKTDPKNEEEEKRRIEARREKQRRRREKNSEKYG
+DGYRMAFTCSFCKFRTFEE----------------------KDIELHLESSSHQETLDHI
+QKQTKFDKV---------------------------VMEFLHECMVNKFKKTSIRKQQTN
+NQTEVVKIIEKDVMEGVTVDDHM---MKVETVHCSACSVYIPALHSSVQQHLKSPDHIKG
+KQAYKEQIKRESVLTATSILNNPIVKARYERFVKGENPFEIQDHSQDQQIEGDE------
+EDEEKIDEPIEEEEDE-------------DEEEEAEEVGEVEE--------VEEVEEVRE
+GGIEGEGNIQGVGEGGEVGVVGEVEGVGEVEEVEELEEETAKEEPADFPVEQPEEN----
+-----------------------------------------

@@ -1,0 +1,141 @@
+#NEXUS
+
+[ID: None Available]
+begin taxa;
+	dimensions ntax=61;
+	taxlabels
+		Rubrobacter_xylanophilus_DSM_9941_gi_108803856
+		Trichodesmium_erythraeum_IMS101_gi_113474895
+		Crocosphaera_watsonii_WH_8501_gi_67924069
+		Anabaena_variabilis_ATCC_29413_gi_75907498
+		Fischerella_sp._JSC-11_gi_354566131
+		Raphidiopsis_brookii_D9_gi_282897015
+		Cylindrospermopsis_raciborskii_CS-505_gi_282899028
+		Arthrospira_maxima_CS-328_gi_209523998
+		Acaryochloris_sp._CCMEE_5410_gi_359457944
+		Nostoc_azollae_0708_gi_298490087
+		Oscillatoria_sp._PCC_6506_gi_300868553
+		Microcoleus_vaginatus_FGP-2_gi_334120716
+		Thermosynechococcus_elongatus_BP-1_gi_22297755
+		Microcystis_aeruginosa_PCC_7806_gi_159029424
+		Cyanothece_sp._PCC_7424_gi_218438615
+		REF_Synechococcus_7942_ClpS1_REF
+		Gloeobacter_violaceus_PCC_7421_gi_37520315
+		Prochlorococcus_marinus_str._MIT_9211_gi_159904162
+		Oryza_sativa_Japonica_Group_gi_115476544
+		Oryza_sativa_Japonica_Group_gi_125603506
+		Zea_mays_gi_195652021
+		Zea_mays_gi_226506038
+		Brachypodium_distachyon_gi_357147864
+		Arabidopsis_thaliana_gi_145326694
+		Arabidopsis_lyrata_subsp._lyrata_gi_297841589
+		REF_Arabidopsis_thaliana_ClpS_REF
+		Vitis_vinifera_gi_225455872
+		Populus_trichocarpa_gi_224099343
+		Populus_trichocarpa_gi_224111728
+		Glycine_max_gi_351723283
+		Medicago_truncatula_gi_357488429
+		Picea_sitchensis_gi_294460817
+		Glycine_max_gi_356531226
+		Vitis_vinifera_gi_297737852
+		Physcomitrella_patens_gi_121489819
+		Selaginella_moellendorffii_gi_302761288
+		Chlorella_variabilis_gi_307105846
+		Chlamydomonas_reinhardtii_gi_159467236
+		Volvox_carteri_f._nagariensis_gi_302834902
+		Ktedonobacter_racemifer_DSM_44963_gi_298245523
+		Guillardia_theta_gi_57335897
+		Trichodesmium_erythraeum_IMS101_gi_113477268
+		Oscillatoria_sp._PCC_6506_gi_300864591
+		Microcoleus_vaginatus_FGP-2_gi_334119600
+		Arthrospira_maxima_CS-328_gi_209526864
+		Anabaena_variabilis_ATCC_29413_gi_75909055
+		Fischerella_sp._JSC-11_gi_354566811
+		Nostoc_azollae_0708_gi_298491120
+		Crocosphaera_watsonii_WH_8501_gi_67924463
+		Cyanothece_sp._PCC_7424_gi_218441397
+		Microcystis_aeruginosa_PCC_7806_gi_159031002
+		Raphidiopsis_brookii_D9_gi_282895992
+		Cylindrospermopsis_raciborskii_CS-505_gi_282901708
+		Thermosynechococcus_elongatus_BP-1_gi_22298631
+		Acaryochloris_sp._CCMEE_5410_gi_359459224
+		REF_Synechococcus_7942_ClpS2_REF
+		Gloeobacter_violaceus_PCC_7421_gi_37521807
+		Prochlorococcus_marinus_str._MIT_9211_gi_159904055
+		Conexibacter_woesei_DSM_14684_gi_284045641
+		Patulibacter_sp._I11_gi_367468593
+		Gloeobacter_violaceus_PCC_7421_gi_37522100
+		;end;
+begin trees;
+	translate
+		1	Rubrobacter_xylanophilus_DSM_9941_gi_108803856,
+		2	Trichodesmium_erythraeum_IMS101_gi_113474895,
+		3	Crocosphaera_watsonii_WH_8501_gi_67924069,
+		4	Anabaena_variabilis_ATCC_29413_gi_75907498,
+		5	Fischerella_sp._JSC-11_gi_354566131,
+		6	Raphidiopsis_brookii_D9_gi_282897015,
+		7	Cylindrospermopsis_raciborskii_CS-505_gi_282899028,
+		8	Arthrospira_maxima_CS-328_gi_209523998,
+		9	Acaryochloris_sp._CCMEE_5410_gi_359457944,
+		10	Nostoc_azollae_0708_gi_298490087,
+		11	Oscillatoria_sp._PCC_6506_gi_300868553,
+		12	Microcoleus_vaginatus_FGP-2_gi_334120716,
+		13	Thermosynechococcus_elongatus_BP-1_gi_22297755,
+		14	Microcystis_aeruginosa_PCC_7806_gi_159029424,
+		15	Cyanothece_sp._PCC_7424_gi_218438615,
+		16	REF_Synechococcus_7942_ClpS1_REF,
+		17	Gloeobacter_violaceus_PCC_7421_gi_37520315,
+		18	Prochlorococcus_marinus_str._MIT_9211_gi_159904162,
+		19	Oryza_sativa_Japonica_Group_gi_115476544,
+		20	Oryza_sativa_Japonica_Group_gi_125603506,
+		21	Zea_mays_gi_195652021,
+		22	Zea_mays_gi_226506038,
+		23	Brachypodium_distachyon_gi_357147864,
+		24	Arabidopsis_thaliana_gi_145326694,
+		25	Arabidopsis_lyrata_subsp._lyrata_gi_297841589,
+		26	REF_Arabidopsis_thaliana_ClpS_REF,
+		27	Vitis_vinifera_gi_225455872,
+		28	Populus_trichocarpa_gi_224099343,
+		29	Populus_trichocarpa_gi_224111728,
+		30	Glycine_max_gi_351723283,
+		31	Medicago_truncatula_gi_357488429,
+		32	Picea_sitchensis_gi_294460817,
+		33	Glycine_max_gi_356531226,
+		34	Vitis_vinifera_gi_297737852,
+		35	Physcomitrella_patens_gi_121489819,
+		36	Selaginella_moellendorffii_gi_302761288,
+		37	Chlorella_variabilis_gi_307105846,
+		38	Chlamydomonas_reinhardtii_gi_159467236,
+		39	Volvox_carteri_f._nagariensis_gi_302834902,
+		40	Ktedonobacter_racemifer_DSM_44963_gi_298245523,
+		41	Guillardia_theta_gi_57335897,
+		42	Trichodesmium_erythraeum_IMS101_gi_113477268,
+		43	Oscillatoria_sp._PCC_6506_gi_300864591,
+		44	Microcoleus_vaginatus_FGP-2_gi_334119600,
+		45	Arthrospira_maxima_CS-328_gi_209526864,
+		46	Anabaena_variabilis_ATCC_29413_gi_75909055,
+		47	Fischerella_sp._JSC-11_gi_354566811,
+		48	Nostoc_azollae_0708_gi_298491120,
+		49	Crocosphaera_watsonii_WH_8501_gi_67924463,
+		50	Cyanothece_sp._PCC_7424_gi_218441397,
+		51	Microcystis_aeruginosa_PCC_7806_gi_159031002,
+		52	Raphidiopsis_brookii_D9_gi_282895992,
+		53	Cylindrospermopsis_raciborskii_CS-505_gi_282901708,
+		54	Thermosynechococcus_elongatus_BP-1_gi_22298631,
+		55	Acaryochloris_sp._CCMEE_5410_gi_359459224,
+		56	REF_Synechococcus_7942_ClpS2_REF,
+		57	Gloeobacter_violaceus_PCC_7421_gi_37521807,
+		58	Prochlorococcus_marinus_str._MIT_9211_gi_159904055,
+		59	Conexibacter_woesei_DSM_14684_gi_284045641,
+		60	Patulibacter_sp._I11_gi_367468593,
+		61	Gloeobacter_violaceus_PCC_7421_gi_37522100
+		;
+   [Note: This tree contains information on the topology, 
+          branch lengths (if present), and the probability
+          of the partition indicated by the branch.]
+   tree con_50_majrule = (1:0.379979,40:0.551079,((((2:0.075622,3:0.049541,(4:0.031521,5:0.085880,10:0.072481)0.61:0.038119,(6:0.018437,7:0.029562)1.00:0.081561,8:0.091983,(9:0.104914,13:0.189167)0.56:0.026817,(11:0.076274,12:0.125712)0.72:0.038407,(14:0.105969,15:0.054439)0.91:0.045490,16:0.225677,18:0.512692)0.51:0.166767,(17:0.261638,41:0.952863)0.74:0.202634)0.91:0.232247,(((((19:0.012866,20:0.079185)0.99:0.053212,((21:0.062057,22:0.033601)0.99:0.032877,23:0.125548)0.71:0.032137)1.00:0.165652,(((24:0.007329,26:0.005884)0.93:0.015103,25:0.020954)1.00:0.133200,((27:0.110424,(32:0.198272,33:0.174124)0.98:0.052196)0.84:0.038607,(((28:0.028754,29:0.039701)1.00:0.066953,(30:0.037691,31:0.118496)1.00:0.096019)0.81:0.041320,34:0.058574)0.60:0.029211)0.79:0.045138)1.00:0.102542)0.98:0.108787,(35:0.295082,36:0.258514)0.99:0.124298)1.00:0.239529,(37:0.262979,(38:0.206183,39:0.268523)1.00:0.350552)0.99:0.152348)1.00:0.236354)0.56:0.153395,((42:0.234082,(43:0.022292,44:0.099432)0.96:0.065057,45:0.081207,((46:0.068789,48:0.112059)1.00:0.073959,47:0.050834)0.62:0.034008,49:0.220601,50:0.053111,51:0.134183,(52:0.040785,53:0.010093)0.96:0.097360,54:0.157079,55:0.227854,56:0.356175,57:0.205785,58:0.587362,61:0.905900)0.53:0.252356,(59:0.188702,60:0.207924)1.00:0.489508)1.00:0.529499)0.79:0.140494);
+
+   [Note: This tree contains information only on the topology
+          and branch lengths (mean of the posterior probability density).]
+   tree con_50_majrule = (1:0.379979,40:0.551079,((((2:0.075622,3:0.049541,(4:0.031521,5:0.085880,10:0.072481):0.038119,(6:0.018437,7:0.029562):0.081561,8:0.091983,(9:0.104914,13:0.189167):0.026817,(11:0.076274,12:0.125712):0.038407,(14:0.105969,15:0.054439):0.045490,16:0.225677,18:0.512692):0.166767,(17:0.261638,41:0.952863):0.202634):0.232247,(((((19:0.012866,20:0.079185):0.053212,((21:0.062057,22:0.033601):0.032877,23:0.125548):0.032137):0.165652,(((24:0.007329,26:0.005884):0.015103,25:0.020954):0.133200,((27:0.110424,(32:0.198272,33:0.174124):0.052196):0.038607,(((28:0.028754,29:0.039701):0.066953,(30:0.037691,31:0.118496):0.096019):0.041320,34:0.058574):0.029211):0.045138):0.102542):0.108787,(35:0.295082,36:0.258514):0.124298):0.239529,(37:0.262979,(38:0.206183,39:0.268523):0.350552):0.152348):0.236354):0.153395,((42:0.234082,(43:0.022292,44:0.099432):0.065057,45:0.081207,((46:0.068789,48:0.112059):0.073959,47:0.050834):0.034008,49:0.220601,50:0.053111,51:0.134183,(52:0.040785,53:0.010093):0.097360,54:0.157079,55:0.227854,56:0.356175,57:0.205785,58:0.587362,61:0.905900):0.252356,(59:0.188702,60:0.207924):0.489508):0.529499):0.140494);
+end;

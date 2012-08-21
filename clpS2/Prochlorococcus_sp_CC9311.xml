@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/cyanobacteria/gji/aa/Prochlorococcus_sp_CC9311</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Synechococcus_7942_ClpS2</BlastOutput_query-def>
+  <BlastOutput_query-len>167</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Synechococcus_7942_ClpS2</Iteration_query-def>
+      <Iteration_query-len>167</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1389</Hit_id>
+          <Hit_def>@Prochlorococcus_sp_CC9311@ 638115012 sync_1423 ATP-dependent Clp protease adaptor protein ClpS [Prochlorococcus sp. CC9311]</Hit_def>
+          <Hit_accession>1389</Hit_accession>
+          <Hit_len>98</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>121.709</Hsp_bit-score>
+              <Hsp_score>304</Hsp_score>
+              <Hsp_evalue>1.75431e-36</Hsp_evalue>
+              <Hsp_query-from>72</Hsp_query-from>
+              <Hsp_query-to>165</Hsp_query-to>
+              <Hsp_hit-from>3</Hsp_hit-from>
+              <Hsp_hit-to>96</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>58</Hsp_identity>
+              <Hsp_positive>67</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>94</Hsp_align-len>
+              <Hsp_qseq>IAAPATAPGTTTTRVRQPYPHFRVIVLDDDVNTFQHVAECLLKYIPGMTGDRAWDLTNQVHYEGAATVWSGPQEQAELYHEQLRREGLTMAPLE</Hsp_qseq>
+              <Hsp_hseq>MATPGTASVLQPERTTLRYPNARVIVLNDDVNTFEHVVECLCKIIPGMNSDKAWTLAHQIDGEGAAEVWAGPLEPAELYHQQLSSEGLTMAPLE</Hsp_hseq>
+              <Hsp_midline>+A P TA      R    YP+ RVIVL+DDVNTF+HV ECL K IPGM  D+AW L +Q+  EGAA VW+GP E AELYH+QL  EGLTMAPLE</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|363</Hit_id>
+          <Hit_def>@Prochlorococcus_sp_CC9311@ 638113960 sync_0371 ATP-dependent Clp protease adaptor protein ClpS [Prochlorococcus sp. CC9311]</Hit_def>
+          <Hit_accession>363</Hit_accession>
+          <Hit_len>103</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>48.9062</Hsp_bit-score>
+              <Hsp_score>115</Hsp_score>
+              <Hsp_evalue>2.10352e-09</Hsp_evalue>
+              <Hsp_query-from>72</Hsp_query-from>
+              <Hsp_query-to>160</Hsp_query-to>
+              <Hsp_hit-from>2</Hsp_hit-from>
+              <Hsp_hit-to>96</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>28</Hsp_identity>
+              <Hsp_positive>48</Hsp_positive>
+              <Hsp_gaps>6</Hsp_gaps>
+              <Hsp_align-len>95</Hsp_align-len>
+              <Hsp_qseq>IAAPATAPG------TTTTRVRQPYPHFRVIVLDDDVNTFQHVAECLLKYIPGMTGDRAWDLTNQVHYEGAATVWSGPQEQAELYHEQLRREGLT</Hsp_qseq>
+              <Hsp_hseq>VDTPSRSPGGAAVLDKQTERVRKTSPRYKVLLHNDPVNSMEYVVVTLQQVVPQLSEQDAMAVMLETHNTGIGLVIVCDIEPAEFYCETLKNKGLT</Hsp_hseq>
+              <Hsp_midline>+  P+ +PG        T RVR+  P ++V++ +D VN+ ++V   L + +P ++   A  +  + H  G   V     E AE Y E L+ +GLT</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|1496</Hit_id>
+          <Hit_def>@Prochlorococcus_sp_CC9311@ 638115119 sync_1531 UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase [Prochlorococcus sp. CC9311]</Hit_def>
+          <Hit_accession>1496</Hit_accession>
+          <Hit_len>458</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>24.6386</Hsp_bit-score>
+              <Hsp_score>52</Hsp_score>
+              <Hsp_evalue>2.65302</Hsp_evalue>
+              <Hsp_query-from>92</Hsp_query-from>
+              <Hsp_query-to>121</Hsp_query-to>
+              <Hsp_hit-from>245</Hsp_hit-from>
+              <Hsp_hit-to>273</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>17</Hsp_positive>
+              <Hsp_gaps>1</Hsp_gaps>
+              <Hsp_align-len>30</Hsp_align-len>
+              <Hsp_qseq>HFRVIVLDDDVNTFQHVAECLLKYIPGMTG</Hsp_qseq>
+              <Hsp_hseq>RVRRVALVDDANDSEHVADDLGDYNP-LTG</Hsp_hseq>
+              <Hsp_midline>  R + L DD N  +HVA+ L  Y P +TG</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>2893</Statistics_db-num>
+          <Statistics_db-len>754454</Statistics_db-len>
+          <Statistics_hsp-len>73</Statistics_hsp-len>
+          <Statistics_eff-space>51066910</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

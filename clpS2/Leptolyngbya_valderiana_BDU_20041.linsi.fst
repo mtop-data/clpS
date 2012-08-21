@@ -1,0 +1,36 @@
+>gnl|BL_ORD_ID|6 @Leptolyngbya_valderiana_BDU_20041@ Leptolyngbya_valderiana_BDU_20041 641057545 LVAL_00046 ATP-dependent Clp protease adaptor protein ClpS [Leptolyngbya valderiana BDU 20041]
+M-----------------------------------------------------------
+SVETIE------------------------------------------------------
+-----------------------------------KRSTVRKHAP----RYRVLLHNDDF
+NTMEYVVQTLVKTVPG--------------LTQPQAVSIMMEAHTNGMALVITCAQEHAE
+FYC-----------ETLRRHGLSSSIE------------------PDD
+>gnl|BL_ORD_ID|6 @Leptolyngbya_valderiana_BDU_20041@ Leptolyngbya_valderiana_BDU_20041 641057545 LVAL_00046 ATP-dependent Clp protease adaptor protein ClpS [Leptolyngbya valderiana BDU 20041]
+M-----------------------------------------------------------
+SVETIE------------------------------------------------------
+-----------------------------------KRSTVRKHAP----RYRVLLHNDDF
+NTMEYVVQTLVKTVPG--------------LTQPQAVSIMMEAHTNGMALVITCAQEHAE
+FYC-----------ETLRRHGLSSSIE------------------PDD
+>Synechococcus_7942_ClpS2
+MLPSPFRPQTTIASENVKTASKAAQPKVNSSMSPQPDESVL-------------------
+SILGVP------------------------------------------------------
+-RPCVKKRSRDDAFVLTVLTCSLQAIAAPATAPGTTTTRVRQPYP----HFRVIVLDDDV
+NTFQHVAECLLKYIPG--------------MTGDRAWDLTNQVHYEGAATVWSGPQEQAE
+LYH-----------EQLRREGLTMAPL------------------EAA
+>gnl|BL_ORD_ID|8 @Leptolyngbya_valderiana_BDU_20041@ Leptolyngbya_valderiana_BDU_20041 641057550 LVAL_00011 aldo/keto reductase [Leptolyngbya valderiana BDU 20041]
+A---ALKAGVGVPRHQLYLTTKVLPNADRTATAREIDESLRRADIDYIDNLAIHGINTWQ
+HLEWVKAADGCMAAVREAIDAGKVRHVGFSTHGSLELILATMETGAFDFVNLHYYLLFQR
+HAPAIERASQLD---MGVFIISPVDKGGRLYAPSERLRRLCQPFSPLALNYRFLLSDRRV
+TTL-----SLGAANPSELEEALEMCDRTDPLTDEERTVL---ERLDIQQTEVLGSDRCRQ
+CYQCLPCPENIHIPEVLRLRNLSLAYDMTEFGKYRYRMXENAXHWSRT
+>gnl|BL_ORD_ID|8 @Leptolyngbya_valderiana_BDU_20041@ Leptolyngbya_valderiana_BDU_20041 641057550 LVAL_00011 aldo/keto reductase [Leptolyngbya valderiana BDU 20041]
+A---ALKAGVGVPRHQLYLTTKVLPNADRTATAREIDESLRRADIDYIDNLAIHGINTWQ
+HLEWVKAADGCMAAVREAIDAGKVRHVGFSTHGSLELILATMETGAFDFVNLHYYLLFQR
+HAPAIERASQLD---MGVFIISPVDKGGRLYAPSERLRRLCQPFSPLALNYRFLLSDRRV
+TTL-----SLGAANPSELEEALEMCDRTDPLTDEERTVL---ERLDIQQTEVLGSDRCRQ
+CYQCLPCPENIHIPEVLRLRNLSLAYDMTEFGKYRYRMXENAXHWSRT
+>gnl|BL_ORD_ID|1 @Leptolyngbya_valderiana_BDU_20041@ Leptolyngbya_valderiana_BDU_20041 641057540 LVAL_00026 pseudouridine synthase Rsu [Leptolyngbya valderiana BDU 20041]
+AQHRLLDPKFGKSRA------------------------------------------YWV
+QVERVPDE----ASLQRLRDGVTIRQYRTRPARVRRLAIAP------DLPPRHPPIRFRK
+NVPTCWLEMSLT------------------EGRNRQVRRMTAAVG----HPTLRLVRVAV
+ENL-----TLDALQPGQWRD----------LTLAEVSQL--QKRCGLSAVASRSGDRNRA
+RYN---------------------------------------------
