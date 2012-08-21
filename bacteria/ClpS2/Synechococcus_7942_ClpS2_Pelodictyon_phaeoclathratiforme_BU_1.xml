@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/bacteria/aa//Pelodictyon_phaeoclathratiforme_BU_1</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Synechococcus_7942_ClpS2</BlastOutput_query-def>
+  <BlastOutput_query-len>167</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Synechococcus_7942_ClpS2</Iteration_query-def>
+      <Iteration_query-len>167</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|42</Hit_id>
+          <Hit_def>@Pelodictyon_phaeoclathratiforme_BU_1@ gi|194335225|ref|YP_002017019.1| ATP-dependent Clp protease adaptor protein ClpS [Pelodictyon phaeoclathratiforme BU-1]</Hit_def>
+          <Hit_accession>42</Hit_accession>
+          <Hit_len>105</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>30.8018</Hsp_bit-score>
+              <Hsp_score>68</Hsp_score>
+              <Hsp_evalue>0.0103996</Hsp_evalue>
+              <Hsp_query-from>93</Hsp_query-from>
+              <Hsp_query-to>142</Hsp_query-to>
+              <Hsp_hit-from>33</Hsp_hit-from>
+              <Hsp_hit-to>81</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>15</Hsp_identity>
+              <Hsp_positive>31</Hsp_positive>
+              <Hsp_gaps>1</Hsp_gaps>
+              <Hsp_align-len>50</Hsp_align-len>
+              <Hsp_qseq>FRVIVLDDDVNTFQHVAECLLKYIPGMTGDRAWDLTNQVHYEGAATVWSG</Hsp_qseq>
+              <Hsp_hseq>YRVVLFNDEEHTFEEVIEQIIKAVR-CSRQKAEKHTWEVHTRGRSIVFAG</Hsp_hseq>
+              <Hsp_midline>+RV++ +D+ +TF+ V E ++K +   +  +A   T +VH  G + V++G</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|341</Hit_id>
+          <Hit_def>@Pelodictyon_phaeoclathratiforme_BU_1@ gi|194335524|ref|YP_002017318.1| family 2 glycosyl transferase [Pelodictyon phaeoclathratiforme BU-1]</Hit_def>
+          <Hit_accession>341</Hit_accession>
+          <Hit_len>381</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>25.0238</Hsp_bit-score>
+              <Hsp_score>53</Hsp_score>
+              <Hsp_evalue>1.96857</Hsp_evalue>
+              <Hsp_query-from>86</Hsp_query-from>
+              <Hsp_query-to>101</Hsp_query-to>
+              <Hsp_hit-from>64</Hsp_hit-from>
+              <Hsp_hit-to>79</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>9</Hsp_identity>
+              <Hsp_positive>12</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>16</Hsp_align-len>
+              <Hsp_qseq>VRQPYPHFRVIVLDDD</Hsp_qseq>
+              <Hsp_hseq>MRQEYAPFEILVLDDD</Hsp_hseq>
+              <Hsp_midline>+RQ Y  F ++VLDDD</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|630</Hit_id>
+          <Hit_def>@Pelodictyon_phaeoclathratiforme_BU_1@ gi|194335813|ref|YP_002017607.1| pyruvate flavodoxin/ferredoxin oxidoreductase domain-containing protein [Pelodictyon phaeoclathratiforme BU-1]</Hit_def>
+          <Hit_accession>630</Hit_accession>
+          <Hit_len>1178</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>24.6386</Hsp_bit-score>
+              <Hsp_score>52</Hsp_score>
+              <Hsp_evalue>3.00302</Hsp_evalue>
+              <Hsp_query-from>73</Hsp_query-from>
+              <Hsp_query-to>123</Hsp_query-to>
+              <Hsp_hit-from>309</Hsp_hit-from>
+              <Hsp_hit-to>360</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>17</Hsp_identity>
+              <Hsp_positive>24</Hsp_positive>
+              <Hsp_gaps>1</Hsp_gaps>
+              <Hsp_align-len>52</Hsp_align-len>
+              <Hsp_qseq>AAPATAPGTTT-TRVRQPYPHFRVIVLDDDVNTFQHVAECLLKYIPGMTGDR</Hsp_qseq>
+              <Hsp_hseq>AFPATVKSISVLDRVKEPGSAGEPLYLDTVNALLEGVQNGLMKTIPAITGGR</Hsp_hseq>
+              <Hsp_midline>A PAT    +   RV++P      + LD      + V   L+K IP +TG R</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>2707</Statistics_db-num>
+          <Statistics_db-len>858388</Statistics_db-len>
+          <Statistics_hsp-len>74</Statistics_hsp-len>
+          <Statistics_eff-space>61200510</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>

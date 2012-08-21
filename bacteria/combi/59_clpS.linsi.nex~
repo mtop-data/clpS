@@ -1,0 +1,325 @@
+#NEXUS
+[saved by seaview on Mon Aug 20 19:34:39 2012]
+BEGIN DATA;
+  DIMENSIONS NTAX=61 NCHAR=189;
+  FORMAT DATATYPE=PROTEIN
+  GAP=-
+  ;
+MATRIX
+[1] Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_3792
+------------------------------------------------------------
+------------QTPVTRPEEKQAQKTVRKPY--PN----FKVIVVNDDVNTFEHVAKTL
+MTYIPHMTSDKAWELTNQIHFEGQAIVWVGPQEQAELYHMQLQRAG-----------LTM
+APLEAA---
+[2] Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_3450
+------------------------------------------------------------
+------------TAPTVTPE--RSNQTVRKSY--PN----YKVIVLNDDFNTFQHVAECL
+VKYIPGMTGDLAWDLTNQVHYEGQAIVWVGPQEPAELYHQQLRRAG-----------LTM
+APLEAA---
+[3] Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3650
+------------------------------------------------------------
+------------TAPTITPE--RSSQVTRKTY--PN----YKVIVLNDDFNTFQHVAECL
+MKYIPGMSGDRAWDLTNQVHYEGQAIVWVGPQEPAELYHQQLRRAG-----------LTM
+APLEAA---
+[4] Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_1770
+------------------------------------------------------------
+------------TAPTVTPG--KTTEVVRKTY--PN----YKVIVLNDDFNTFQHVSECL
+MKYIPGMTGDRAWDLTNQIHYEGQAIVWVGPQEMAELYHQQLRRAG-----------LTM
+APLEAA---
+[5] Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_1627
+------------------------------------------------------------
+------------ASPTTTPS--RSSQTVRKPY--PN----YKVIVLNDDFNTFQHVANCL
+MKYLPGMTSDQAWELTNRVHYEGQATVWVGPLEQAELYHTQLSREG-----------LTM
+APLEKA---
+[6] Synechococcus_7942_ClpS2
+MLPSPFRPQTTIASENVKTASKAAQPKVNSSMSPQPDESVLSILGVPRPCVKKRSRDDAF
+VLTVLTCSLQAIAAPATAPG--TTTTRVRQPY--PH----FRVIVLDDDVNTFQHVAECL
+LKYIPGMTGDRAWDLTNQVHYEGAATVWSGPQEQAELYHEQLRREG-----------LTM
+APLEAA---
+[7] Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2237
+------------------------------------------------------------
+------------SSATVTPT--KPETSVKALK--P-----WKVIVLNDDFNTFQHVANCL
+VKYIPHMHPDRAWKLTQQVHSEGRAIVWVGPLEQAELYHEQLSREG-----------LTM
+APLEQA---
+[8] Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_2530
+------------------------------------------------------------
+------------PLPTKTPL--DPVKTPEKT---PLRWRDWVVRLFNDPVNKFEHVVESL
+CKHVPGMSQDMAWSVAWQAHREGVAATYQGPREVAELVCEKLVRDG-----------LIS
+DCCES----
+[9] Acaryochloris_marina_MBIC11017_gnl_BL_ORD_ID_5473
+------------------------------------------------------------
+-------------SVETLEK----RSTSRKLA--PK----YRVLLHNDDFNSMEHVVQVL
+IQTVPNLTQPQAVSVMMEAHTNGIALVITCAFEHAEFYCETLKMHG-----------LTS
+TIEPDE---
+[10] Anabaena_variabilis_ATCC_29413_gnl_BL_ORD_ID_1891
+------------------------------------------------------------
+-------------SVETIEK----RSTSRKLA--PR----YRVLLHNDDYNSMEYVVQVL
+ITTVPSLTQPQAVSIMMEAHTNGLALVITCAQEHAEFYCETLKDHG-----------LSS
+TIEPDE---
+[11] Nodularia_spumigena_CCY9414_gnl_BL_ORD_ID_2031
+------------------------------------------------------------
+----------------------------------------------------MEHVVQSL
+ITTVPSLTQPQAVSIMMEAHTNGMALVITCAQEHAEFYCETLKSHG-----------LSS
+TIEPDE---
+[12] Nostoc_punctiforme_ATCC_29133_gnl_BL_ORD_ID_3476
+------------------------------------------------------------
+-------------SVETIQK----PSTTRKLA--PR----YRVLLHNDDYNSMEHVVQSL
+IATVPSLTQPQAVSIMMEAHTNGLALVITCALEHAEFYCETLISHG-----------LSS
+TIEPDE---
+[13] Arthrospira_platensis_NIES_39_gnl_BL_ORD_ID_6367
+------------------------------------------------------------
+-------------STQTVEK----TSTNRKLA--PR----YRVLLHNDDHNPMEYVVQVL
+MSTVPGLTQPQAVSIMMEAHTNGLALVITCALEHAEFYCETLKNHG-----------LTS
+TIEPDE---
+[14] Synechococcus_7942_ClpS1
+------------------------------------------------------------
+------------MAVETIQK--PETTTKRKIA--PR----YRVLLHNDDFNPMEYVVMVL
+MQTVPSLTQPQAVDIMMEAHTNGTGLVITCDIEPAEFYCEQLKSHG-----------LEQ
+QH-------
+[15] Gloeobacter_violaceus_PCC_7421_gnl_BL_ORD_ID_745
+------------------------------------------------------------
+-------------STETLER----KSVQRKPM--PL----YKVLLHNDDHTPMNYVIEVL
+MKTIPKMQPSKARKIMLEAHNGGVAVVIVCALEHAEFYSESLNRHN-----------LTS
+TYEPDC---
+[16] Rubrobacter_xylanophilus_DSM_9941_gnl|BL_ORD_ID|999
+------------------------------------------------------------
+MVGSLTRDIRCSAATKTAPA--RKTRRAPSRE--PR----YRVILHNDDWTPMDHVVAAL
+MKVVPRLSLRRAVSIMLEAHTKGQAVVTRCHRELAELYREGLKAEG-----------LIS
+TIEPDG---
+[17] Brassica_rapa_gnl_BL_ORD_ID_16356
+------------------------------------------------------------
+-----DKPIIEKTTPGRESE--FDLRKSKKMA--PP----YRVILHNDNFNKREYVVQVL
+MKVIPGMTVDNAVNIMQEAHINGMAVVIVCAQADAEQHCMQLRGNG-----------LLS
+SVEPDGGGC
+[18] gnl|BL_ORD_ID|16002
+-----------METAICGRLALAPSSLFNSKSGDKHLVSKGPCVNRSILMTLSTSAALGK
+GGGVLDKPIIEKTTPGRESE--FDLRKSKKIA--PP----YRVILHNDNFNKREYVVQVL
+MKVIPGMTVDNAVNIMQEAHINGLAVVIVCAQADAEQHCMQLRGNG-----------LLS
+SVEPDGGGC
+[19] Medicago_truncatula_gnl_BL_ORD_ID_34263
+------------------------------------------------------------
+-----EKPVIEKATPGRESE--FDLKKSRKTA--PP----YRVILHNDNFNKREYVVQVL
+MKVIPGMTLDNAVNIMQEAHHNGMSVVIICAQADAEDHCMQLRGNG-----------LLS
+SIEPAGDGC
+[20] Zea_mays_gnl_BL_ORD_ID_43912
+------------------------------------------------------------
+-----DRP-VEKTTPGRQSE--FDVKKSRKMS--PP----YRVILHNDNYNRREYVVKVL
+MKVIPGMTVDNAVNIMQEAHVNGLSVVIVCSQSEAEEHCTSLRGNG-----------LRS
+SIEPASGGC
+[21] Oryza_sativa_gnl_BL_ORD_ID_6727
+------------------------------------------------------------
+-----DRP-IEKVTPGRQSE--FDVRKSRKMT--PP----YRVLLHNDNYNRREYVVQVL
+MKVIPGMTVDNAVNIMQEAHVNGLSVVIICSQSEAEEHCTSLRGNG-----------LRS
+SIEPASGGC
+[22] Physcomitrella_patens_gnl_BL_ORD_ID_33457
+------------------------------------------------------------
+-----DRPTIDKPTPGRESE--FDLKKKKKMS--PP----YRVMLHNDNFNKREYVVQVL
+LKAIPGMTVDIAVNVMNEAHINGIAVVIVCPQEDAEDYCMQLRTNG-----------LLS
+SIEPDT--C
+[23] Volvox_carteri_gnl_BL_ORD_ID_608
+------------------------------------------------------------
+----------DSPTITSEPQ--QGTDRAYKRP--PI----YKVFLHNDNYNKREYVVKVL
+LKVVEEITVDDAVTVMQEAHETGVALVVACPQENAERYCEGLRLNG-----------LTS
+TIEPAG--R
+[24] Chlamydomonas_reinhardtii_gnl_BL_ORD_ID_9005
+------------------------------------------------------------
+----------DAPTTTQQPA--SGVERSQKRP--PI----YKVLLHNDNYNKREYVVKVL
+LKVVEQITVDDAVTCMQEAHETGVALVVACPQDNAERYCEGLRLNG-----------LTS
+TIEPGG--C
+[25] Cyanophora_paradoxa_gnl_BL_ORD_ID_27119
+------------------------------------------------------------
+-----AKPEVETGGDGAKSK---ERENEEEFM--GK----WKVLLHNDEANTMEYVIKAI
+RTVVPNISHQEAVNIMLEAHTTGV-VVIVCEKEHAEYYCEGLKGYQ-----------LWS
+SIEPED--V
+[26] Cyanidioschyzon_merolae_gnl_BL_ORD_ID_2238
+------------------------------------------------------------
+--------------EREAVR--EKTTATKGVDPGKK----YKLLLFNDEKNTRERVVEVL
+LKCIPGLSKLDAQSIMQKAHTTGMALVGVWVFELAEAYCDLLRSEG-----------LVS
+DIEPAE---
+[27] Cyanophora_paradoxa_gnl_BL_ORD_ID_23599
+------------------------------------------------------------
+-----ERPSVIGDVDVTAWA--TFMARRKAQA--PK----YRVLLFNDPFNKREHVV---
+---IDGLTTADAVEIMSKAHNEGFAVAAVVVQEVAELYVEGLRSCG-----------LTA
+TCEPDE---
+[28] Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_1197
+------------------------------------------------------------
+------------------------------------------MILVNDDYTPREFVVSVL
+KGEF-RMTEDQATKVMLTAHQRGVCVVGVFTKDVAETKATRATDAGRAKGYP-----LLF
+TTEPEE---
+[29] Agrobacterium_tumefaciens_C58_gnl|BL_ORD_ID|2177
+MSDSP-------------------------------------------------------
+----------------VDLK--PKPKVKPKLERPKL----YKVMLLNDDYTPREFVTVVL
+KAVF-RMSEDTGRRVMMTAHRFGSAVVVVCERDIAETKAKEATDLGKEAGFP-----LMF
+TTEPEE---
+[30] Deinococcus_radiodurans_R1_gnl|BL_ORD_ID|752
+MARRGALPVLKSAAPL--------------------------------------GGGARP
+ILGAMTRPTIPPGPPGAEGR--TQTLERTETKKPRL----WRVLLLNDDYTPMDYVVQVL
+EQFF-RKTEQEAELIMLAVHHKGQGVAGVYTRDVAETKVAQVTAHAQREGHP-----LRV
+VAEPESEGE
+[31] Rhodopseudomonas_palustris_CGA009_gnl_BL_ORD_ID_3127
+----------------------------------------ST------------------
+----------------PSTS--VITKTKPRTKRPNL----YRVLILNDDYTPMEFVVHVL
+EKFF-QMDVEAATKVMLHVHHHGIGECGVFTYEIAETKVTQVMDFARKHQHP-----LQC
+VMEKK----
+[32] Agrobacterium_tumefaciens_C58_gnl|BL_ORD_ID|1337
+M----------------IAKPIYMQGEGD------GEDGGTN------------------
+----------------RGTS--VITRVKPKTKRPNL----YRVLLLNDDYTPMEFVIHIL
+ERFF-QKDREAATRIMLHVHQHGVGECGVFTYEVAETKVSQVMDFARQHQHP-----LQC
+VMEKK----
+[33] Rhodospirillum_rubrum_ATCC_11170_gnl|BL_ORD_ID|2151
+M--NTESQSAKMTTRDHDMAPRLGQGGDDQNDDDRGGQGPGQ------------------
+----------------PGTG--VVVKAKPKTKKPSM----YRVLMLNDDYTPMEFVVHVL
+ERFF-GKTHEEATNIMLHVHQRGVGLCGVYTYEVAETKVSQVMDLARRSQHP-----LQC
+TLEKE----
+[34] Bordetella_petrii_DSM_12804_gnl|BL_ORD_ID|2667
+MSSTLDT-----------------------------------------------------
+----------------QHDV--AVEKAPARTAPPPM----YQVVLLNDDYTPMEFVVKVL
+QKFF-GKNQEDATRIMLQVHHEGRGTCGVYPRDVAATRIAQVAQYARARQHP-----LQC
+VMEPV----
+[35] Delftia_acidovorans_SPH_1_gnl|BL_ORD_ID|3490
+MARMIFMATQPPSIPPAIPTVRPVSDD---------------------------------
+----------------DGAV--VLERRRQRVQPPQM----YQVVMLNDDFTPMEFVIIVL
+QELF-GKDRETATQIMLKIHLDGRGVCGVYSRDVAATKVEQVLQAAQKAGHP-----LQA
+MFEPVE---
+[36] Methylibium_petroleiphilum_PM1_gnl|BL_ORD_ID|2454
+MPDDTVPPTPPKRPVTKPDDG---------------------------------------
+----------------QGAV--VAERQSARVEPPRM----YQVVLLNDDYTPMEFVVMVL
+QEFF-QRDIETATQIMLKIHHEGRGVCGVYTKDVASTKVESVLAAAKRSGHP-----LQC
+TMEAA----
+[37] Nitratiruptor_SB155_2_gnl|BL_ORD_ID|374
+M-----------------------------------------------------------
+-----------------GEK--VETKEVVKLEEPKK----YKVFLLNDDYTTMDFVVDIL
+CDIF-DKSYEEAVNIMLTIHRQGKGLCGIYTYEIAETKIDQVHRLARAHEFP-----LKA
+VMEEE----
+[38] Sulfurimonas_denitrificans_DSM_1251_gnl|BL_ORD_ID|457
+MA----------------------------------------------------------
+----------------TNID--LETKEKVKIKYPKK----YKVLLLNDDYTSMEFVIDIL
+ITIF-HKNYEQAHQIMLEIHKKTKGICGIYTYEIAETKVMQVHKKARDNGFA-----LRA
+TMEEE----
+[39] Neisseria_gonorrhoeae_FA_1090_gnl|BL_ORD_ID|378
+MTAQHQS-----------------------------------------------------
+----------------------DTLLHRLNTLPPKR----YGVFLLNDDYTTMEFVVEIL
+TEIF-MLGQEQAVAVMLSVHHEGKGLCGTYTRDIAQTKQQQVMQRAKAEGHP-----LQC
+IVEEI----
+[40] Escherichia_coli_UTI89_gnl_BL_ORD_ID_1000
+MGKTNDWLD---------------------------------------------------
+----------------FDQL--AEEKVRDALKPPSM----YKVILVNDDYTPMEFVIDVL
+QKFF-SYDVERATQLMLAVHYQGKAICGVFTAEVAETKVAMVNKYARENEHP-----LLC
+TLEKA----
+[41] gnl|BL_ORD_ID|1000
+MGKTNDWLD---------------------------------------------------
+----------------FDQL--AEEKVRDALKPPSM----YKVILVNDDYTPMEFVIDVL
+QKFF-SYDVERATQLMLAVHYQGKAICGVFTAEVAETKVAMVNKYARENEHP-----LLC
+TLEKA----
+[42] Legionella_pneumophila_2300_99_Alcoy_gnl|BL_ORD_ID|900
+MSRQNLEEIIQTGI----------------------------------------------
+----------------ADTE--LSTEISTAIKRPRK----YKVLLLNDDYTPMDFVVEVL
+KHFF-HLNEEVAIQVMLQVHFQGKGVCGVFTRDIAETKVALVNEYARMNQHP-----LLS
+SMEPE----
+[43] Pseudomonas_stutzeri_A1501_gnl|BL_ORD_ID|2249
+MLRNPFALVGTYCLYHRFADSQGDSSAGCEAVHIYLAPAPRPRTVMRMHAFAQIRLTFNQ
+DRPLEDGDD-------ASGL--AVEEAKPQLKAPPM----YKVVMFNDDYTPMDFVVEVL
+EGIF-NHSREQATKIMLAVHTEGQAVCGVYTRDVAETKAMQVNQYARECQHP-----LLC
+EIEKDG---
+[44] Desulfovibrio_vulgaris_DP4_gnl|BL_ORD_ID|1675
+MSNGPLA-----------------------------------------------------
+----------------PGYD--SDILVEDDVRLPRM----YRVLLHNDDYTTMEFVVSIL
+VEVF-RKTAEQATAIMLAVHRDGVGECGVYTFEVAETKAAIVHARARREGYP-----LRC
+STEEV----
+[45] Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_gnl|BL_ORD_ID|1666
+MSDIFRFD----------------------------------------------------
+----------------TEEQ--TLTKEKVKLKRPSK----YRVIILNDDFTPMEFVVWIL
+QFVF-HRSRAQSQQIMLKAHITGKALCGVYSHDVARTKVIQVQQLAEQHGYP-----LHC
+TMEVEEES-
+[46] Bdellovibrio_bacteriovorus_HD100_gnl|BL_ORD_ID|1161
+MGNNKKDSNSNYPFAS--------------------------------------------
+----------------PEGE--AGVQLVPKLDTPKM----YKVILLNDDYTPMDFVVLVL
+RRFF-AKTEEQATEIMLDVHKKGAGVAGVFSLEIAEMKVMQVNQFAQLNQYP-----LKS
+TLEEEA---
+[47] Treponema_denticola_ATCC_35405_gnl|BL_ORD_ID|2106
+MELK--------------------------------------------------------
+----------------KQAQ--KGTIISEKFIEPEN----YRVILLNDDFTPMDFVVAVL
+ISIF-NKSQEEAETLMFKVHKTGQASVGIYVYDIATTKCFQVLTAAKNNNFP-----LQC
+KVEKV----
+[48] Anaeromyxobacter_dehalogenans_2CP_1_gnl|BL_ORD_ID|832
+MAERTRPGGDTEVVV---------------------------------------------
+----------------------PKTRAERETKRPPL----YRVLLHNDHYTTQEFVDFVL
+MTVF-NHDPESAHRIMLHVHMHGVGVAGIYPYEIAETKARKTMDLAREAEYP-----LLV
+TIEPE----
+[49] Chloroflexus_aurantiacus_J_10_fl_gnl|BL_ORD_ID|2556
+M------STEQPAVTVR-------------------------------------------
+----------------PAVS--FAVASDEELERP------YRVIVQNDDVTPMDFVVIVL
+RVFF-GLDLARAEQVMLTAHYEGRALVTVLPLQEAQERVYQAHHAAREAGYP-----LTF
+YLEPDEQ--
+[50] Roseiflexus_castenholzii_DSM_13941_gnl|BL_ORD_ID|3949
+M----SAEVSVPLTTTI-------------------------------------------
+----------------PTTE--YVVVTEEELERP------YRVIIENDDVTPMDFVVLVL
+LTIF-ELGFEQSVAIMLEAHHNGRAHVVTLPYEEAQRRVYEAHHAAREAGYP-----LSF
+YLEPDA---
+[51] Herpetosiphon_aurantiacus_DSM_785_gnl|BL_ORD_ID|3187
+MNTRRDVATAEPQTTTD-------------------------------------------
+----------------VELD--FITLSDEELEKP------YRVILQNDDITPMEVVVWVL
+EKVF-EQSFEQAKRIMIEAHVKGHALVTILPFKEASARVYSAQSRARDMGFP-----LVL
+FLEPDF---
+[52] Cytophaga_hutchinsonii_ATCC_33406_gnl|BL_ORD_ID|1028
+MIRIQSHSFPFQQE----------------------------------------------
+----------------------EDVALMEEVQTSDM----NDLVVYNDDVNTFEHVIQVL
+MSVC-GHSPEQAEQCTLLIHYKGKCTVKMGSLNELKPMRQGICDKG-----------ISA
+EIL------
+[53] Flavobacterium_johnsoniae_UW101_gnl|BL_ORD_ID|3483
+MS----------------------------------------------------------
+----------------------TKEKVREKVREKEAAVFNNEIIMYNDDVNTFDHVIDTL
+MRVC-DHTAEQAEQCSLIVHYNGKCTVKTGPIEKLKPQCTQLLEAG-----------LSA
+EIV------
+[54] Streptomyces_avermitilis_MA_4680_gnl_BL_ORD_ID_5165
+----TAPAPLEI------------------------------------------------
+----------------------EKTESAEEVFAVPEPDVPWVTIVHNDPVNLMSYVTYVF
+QTYF-GYSKDKATKLMLDVHHKGRAVVSSGTREEMERDVQAMHGYG-----------LWA
+TLQQDRK--
+[55] gnl|BL_ORD_ID|5165
+MGRVTAPAPLEI------------------------------------------------
+----------------------EKTESAEEVFAVPEPDVPWVTIVHNDPVNLMSYVTYVF
+QTYF-GYSKDKATKLMLDVHHKGRAVVSSGTREEMERDVQAMHGYG-----------LWA
+TLQQDRK--
+[56] Candidatus_Solibacter_usitatus_Ellin6076_gnl|BL_ORD_ID|1190
+MRRHAAQMANPAIAPD--------------------------------------------
+----------------------TEILEREREQHVPL----YRVVLLDDNDHTYDYVIEML
+QKIF-IFTLDQAYRHAEEVDRAGRTVLITCELREAEYARDQIQAYGPDWRLPRSKGSMSA
+VVEPAQ---
+[57] Rhodopirellula_baltica_SH_1_gnl|BL_ORD_ID|6674
+MSDHSAAVAEPDVVTE--------------------------------------------
+----------------------EEQRSDRKPKRQPP----YHVILWDDTDHSYDYVISMM
+KRLF-RMPIEKGYQVAKEVDKSGRAICMTTTLELAELKRDQIHAFGKDERLDRCKGSMSA
+TIEPARG--
+[58] Rubrobacter_xylanophilus_DSM_9941_gnl|BL_ORD_ID|2018
+MGAATR------------------------------------------------------
+----------------------PKRRSREKSGGLPP----YNVVLLDDDDHSYEYVIFML
+RKLF-GYPVRKGYELAREVDTTGRAVVATTHLEEAELKRDQIQSFGPDPLIPRCKGSMRA
+VVEPAPG--
+[59] Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_gnl|BL_ORD_ID|1440
+MASTQTPDL---------------------------------------------------
+----------------------DEITSTKSTGGP------WRVVLWDDNEHTYEYVIEML
+VEIC-MMTVEKAFLHAVQVDQEKRTIVFSGEFEHAEHVQERILTYGADPRMSNSKGSMSA
+TLEK-----
+[60] Chlorobium_tepidum_TLS_gnl|BL_ORD_ID|2204
+MIRLTAS------NNPDT------------------------------------------
+----------------------RTEELIADVDTLDA----WRVVLFNDDDHTFDEVIFQI
+IKAV-RCTRSIAEKHTWEVHTRGRAIVYAGEMSNCIRVSAILEEIA-----------LKT
+EIQTG----
+[61] Pelodictyon_phaeoclathratiforme_BU_1_gnl|BL_ORD_ID|42
+MNSSLANRWTASLTTPVT------------------------------------------
+----------------------KQREQGSGPDLLDA----YRVVLFNDEEHTFEEVIEQI
+IKAV-RCSRQKAEKHTWEVHTRGRSIVFAGAMLLCLRVSSILEEIA-----------LKT
+EIQTS----
+;
+END;
+
+BEGIN MRBAYES;
+
+charset protein = 1 - 189;
+prset aamodelpr = mixed;
+
+mcmc ngen=5000000 printfreq=1000 samplefreq=1000;
+
+END;
+

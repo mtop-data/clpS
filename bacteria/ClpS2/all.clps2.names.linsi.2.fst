@@ -1,0 +1,52 @@
+>Synechococcus_7942_ClpS2
+MLPSPFRPQTTIASENVKTASKAAQPKVNSSMSPQPDESVLSILGVPRPCVKKRSRDDAF
+VLTVLTCSLQAIAAPATAPGTTTTRVRQPYPHFRVIVLDDDVNTFQHVAECLLKYIPGMT
+GDRAWDLTNQVHYEGAATVWSGPQEQAELYHEQLRREGLTMAPLEAA------------
+>gnl|BL_ORD_ID|16002 Arabidopsis_thaliana AT1G68660.1|PACid:19653949
+-----------METAICGRLALAPSSLFNSKSGDKHLVSKGPCVNRSILMTLSTSAALGK
+GGGVLDKPIIEKTTPGRESEFDLRKSKKIAPPYRVILHNDNFNKREYVVQVLMKVIPGMT
+VDNAVNIMQEAHINGLAVVIVCAQADAEQHCMQLRGNGLLSSVEPDGGGC---------
+>Rubrobacter_xylanophilus_DSM_9941_gnl|BL_ORD_ID|999 gi|108803856|ref|YP_643793.1| ATP-dependent Clp protease adaptor protein ClpS [Rubrobacter xylanophilus DSM 9941]
+---------------MVGSLTRDIR-----------------CSAATKTAPARKTRRAP-
+---------------------------SREPRYRVILHNDDWTPMDHVVAALMKVVPRLS
+LRRAVSIMLEAHTKGQAVVTRCHRELAELYREGLKAEGLISTIEPDG------------
+>Cytophaga_hutchinsonii_ATCC_33406_gnl|BL_ORD_ID|1028 gi|110637456|ref|YP_677663.1| hypothetical protein CHU_1046 [Cytophaga hutchinsonii ATCC 33406]
+---------------MIRI--------------------------QSHSFPFQQEEDVA-
+----------------------LMEEVQTSDMNDLVVYNDDVNTFEHVIQVLMS-VCGHS
+PEQAEQCTLLIHYKGKCTVKMGSLNELKPMRQGICDKGISAEIL---------------
+>Flavobacterium_johnsoniae_UW101_gnl|BL_ORD_ID|3483 gi|146301250|ref|YP_001195841.1| unnamed protein product [Flavobacterium johnsoniae UW101]
+--------------------------------------------MSTKEKVREKVREKE-
+---------------------------AAVFNNEIIMYNDDVNTFDHVIDTLMR-VCDHT
+AEQAEQCSLIVHYNGKCTVKTGPIEKLKPQCTQLLEAGLSAEIV---------------
+>Chlorobium_tepidum_TLS_gnl|BL_ORD_ID|2204 CT2237 hypothetical protein
+---------------MIRLTASN----------------------NPDTRTEELIADVD-
+----------------------------TLDAWRVVLFNDDDHTFDEVIFQIIK-AVRCT
+RSIAEKHTWEVHTRGRAIVYAGEMSNCIRVSAILEEIALKTEIQTG-------------
+>Pelodictyon_phaeoclathratiforme_BU_1_gnl|BL_ORD_ID|42 gi|194335225|ref|YP_002017019.1| ATP-dependent Clp protease adaptor protein ClpS [Pelodictyon phaeoclathratiforme BU-1]
+---------------MNSSLANRWT--------------------ASLTTPVTKQREQG-
+------------------------SGPDLLDAYRVVLFNDEEHTFEEVIEQIIK-AVRCS
+RQKAEKHTWEVHTRGRSIVFAGAMLLCLRVSSILEEIALKTEIQTS-------------
+>Candidatus_Solibacter_usitatus_Ellin6076_gnl|BL_ORD_ID|1190 gi|116620336|ref|YP_822492.1| unnamed protein product [Candidatus Solibacter usitatus Ellin6076]
+---------------MRRHAAQMANPAI-----------------APDTEILEREREQH-
+-----------------------------VPLYRVVLLDDNDHTYDYVIEMLQK-IFIFT
+LDQAYRHAEEVDRAGRTVLITCELREAEYARDQIQAYGPDWRLPRSKGSMSAVVEPAQ-
+>Rubrobacter_xylanophilus_DSM_9941_gnl|BL_ORD_ID|2018 gi|108804875|ref|YP_644812.1| ATP-dependent Clp protease adaptor protein ClpS [Rubrobacter xylanophilus DSM 9941]
+--------------------------------------------MGAATRPKRRSREKS-
+---------------------------GGLPPYNVVLLDDDDHSYEYVIFMLRK-LFGYP
+VRKGYELAREVDTTGRAVVATTHLEEAELKRDQIQSFGPDPLIPRCKGSMRAVVEPAPG
+>Leptospira_borgpetersenii_serovar_Hardjo_bovis_JB197_gnl|BL_ORD_ID|1440 gi|116331240|ref|YP_800958.1| hypothetical protein LBJ_1643 [Leptospira borgpetersenii serovar Hardjo-bovis JB197]
+---------------MASTQ-------------------------TPDLDEITSTKSTG-
+------------------------------GPWRVVLWDDNEHTYEYVIEMLVE-ICMMT
+VEKAFLHAVQVDQEKRTIVFSGEFEHAEHVQERILTYGADPRMSNSKGSMSATLEK---
+>Bordetella_petrii_DSM_12804_gnl|BL_ORD_ID|2667 gi|163856974|ref|YP_001631272.1| clpS gene product [Bordetella petrii DSM 12804]
+---------------MSSTLD------------------------TQHDVAVEKAPART-
+---------------------------APPPMYQVVLLNDDYTPMEFVVKVLQK-FFGKN
+QEDATRIMLQVHHEGRGTCGVYPRDVAATRIAQVAQYARARQHPLQCVMEPV-------
+>Rhodopseudomonas_palustris_CGA009_gnl|BL_ORD_ID|3127 RPA3148 DUF174
+-----------MLQPSLSHSAAGQAGDRINRPLAMAGDGGRSGPSTPSTSVITKTKPRT-
+---------------------------KRPNLYRVLILNDDYTPMEFVVHVLEK-FFQMD
+VEAATKVMLHVHHHGIGECGVFTYEIAETKVTQVMDFARKHQHPLQCVMEKK-------
+>gnl|BL_ORD_ID|5165 Streptomyces_avermitilis_MA_4680 gi|29831702|ref|NP_826336.1| ATP-dependent Clp protease adaptor protein ClpS [Streptomyces avermitilis MA-4680]
+----------------MGRVT------------------------APAPLEIEKTESAE-
+---------------------EVFAVPEPDVPWVTIVHNDPVNLMSYVTYVFQT-YFGYS
+KDKATKLMLDVHHKGRAVVSSGTREEMERDVQAMHGYGLWATLQQDRK-----------

@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.2.26+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>/home/mt258/db/bacteria/aa//Treponema_pallidum_DAL_1</BlastOutput_db>
+  <BlastOutput_query-ID>Query_1</BlastOutput_query-ID>
+  <BlastOutput_query-def>Synechococcus_7942_ClpS2</BlastOutput_query-def>
+  <BlastOutput_query-len>167</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>10</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+  <BlastOutput_iterations>
+    <Iteration>
+      <Iteration_iter-num>1</Iteration_iter-num>
+      <Iteration_query-ID>Query_1</Iteration_query-ID>
+      <Iteration_query-def>Synechococcus_7942_ClpS2</Iteration_query-def>
+      <Iteration_query-len>167</Iteration_query-len>
+      <Iteration_hits>
+        <Hit>
+          <Hit_num>1</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|195</Hit_id>
+          <Hit_def>@Treponema_pallidum_DAL_1@ gi|378974829|ref|YP_005223437.1| rpsC gene product [Treponema pallidum subsp. pallidum DAL-1]</Hit_def>
+          <Hit_accession>195</Hit_accession>
+          <Hit_len>247</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>25.0238</Hsp_bit-score>
+              <Hsp_score>53</Hsp_score>
+              <Hsp_evalue>0.703147</Hsp_evalue>
+              <Hsp_query-from>135</Hsp_query-from>
+              <Hsp_query-to>155</Hsp_query-to>
+              <Hsp_hit-from>13</Hsp_hit-from>
+              <Hsp_hit-to>38</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>13</Hsp_identity>
+              <Hsp_positive>14</Hsp_positive>
+              <Hsp_gaps>5</Hsp_gaps>
+              <Hsp_align-len>26</Hsp_align-len>
+              <Hsp_qseq>GAATVWS-----GPQEQAELYHEQLR</Hsp_qseq>
+              <Hsp_hseq>GINKVWSSRWYAGPREYAALLHEDLR</Hsp_hseq>
+              <Hsp_midline>G   VWS     GP+E A L HE LR</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>2</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|155</Hit_id>
+          <Hit_def>@Treponema_pallidum_DAL_1@ gi|378974789|ref|YP_005223397.1| rnfD gene product [Treponema pallidum subsp. pallidum DAL-1]</Hit_def>
+          <Hit_accession>155</Hit_accession>
+          <Hit_len>339</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>23.8682</Hsp_bit-score>
+              <Hsp_score>50</Hsp_score>
+              <Hsp_evalue>2.03132</Hsp_evalue>
+              <Hsp_query-from>17</Hsp_query-from>
+              <Hsp_query-to>74</Hsp_query-to>
+              <Hsp_hit-from>1</Hsp_hit-from>
+              <Hsp_hit-to>58</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>15</Hsp_identity>
+              <Hsp_positive>28</Hsp_positive>
+              <Hsp_gaps>0</Hsp_gaps>
+              <Hsp_align-len>58</Hsp_align-len>
+              <Hsp_qseq>VKTASKAAQPKVNSSMSPQPDESVLSILGVPRPCVKKRSRDDAFVLTVLTCSLQAIAA</Hsp_qseq>
+              <Hsp_hseq>MRTAEYKHAPFLYTGLSAGQNNSVLLALLVAHVFVVAAMRDTVALFSIVSTELGALSA</Hsp_hseq>
+              <Hsp_midline>++TA     P + + +S   + SVL  L V    V    RD   + ++++  L A++A</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+        <Hit>
+          <Hit_num>3</Hit_num>
+          <Hit_id>gnl|BL_ORD_ID|13</Hit_id>
+          <Hit_def>@Treponema_pallidum_DAL_1@ gi|378974647|ref|YP_005223255.1| greA gene product [Treponema pallidum subsp. pallidum DAL-1]</Hit_def>
+          <Hit_accession>13</Hit_accession>
+          <Hit_len>893</Hit_len>
+          <Hit_hsps>
+            <Hsp>
+              <Hsp_num>1</Hsp_num>
+              <Hsp_bit-score>23.0978</Hsp_bit-score>
+              <Hsp_score>48</Hsp_score>
+              <Hsp_evalue>4.11478</Hsp_evalue>
+              <Hsp_query-from>84</Hsp_query-from>
+              <Hsp_query-to>159</Hsp_query-to>
+              <Hsp_hit-from>513</Hsp_hit-from>
+              <Hsp_hit-to>584</Hsp_hit-to>
+              <Hsp_query-frame>0</Hsp_query-frame>
+              <Hsp_hit-frame>0</Hsp_hit-frame>
+              <Hsp_identity>20</Hsp_identity>
+              <Hsp_positive>29</Hsp_positive>
+              <Hsp_gaps>4</Hsp_gaps>
+              <Hsp_align-len>76</Hsp_align-len>
+              <Hsp_qseq>TRVRQPYPHFRVIVLDDDVNTFQHVAECLLKYIPGMTGDRAWDLTNQVHYEGAATVWSGPQEQAELYHEQLRREGL</Hsp_qseq>
+              <Hsp_hseq>TRVSTVLPHLNACRPHGFADLYAHIADPRLVYTEIKDKGLKWEFVNSV--KNFVSNWS--DEYVKLFPEVLSLEIL</Hsp_hseq>
+              <Hsp_midline>TRV    PH          + + H+A+  L Y         W+  N V  +   + WS   E  +L+ E L  E L</Hsp_midline>
+            </Hsp>
+          </Hit_hsps>
+        </Hit>
+      </Iteration_hits>
+      <Iteration_stat>
+        <Statistics>
+          <Statistics_db-num>1056</Statistics_db-num>
+          <Statistics_db-len>356595</Statistics_db-len>
+          <Statistics_hsp-len>69</Statistics_hsp-len>
+          <Statistics_eff-space>27805638</Statistics_eff-space>
+          <Statistics_kappa>0.041</Statistics_kappa>
+          <Statistics_lambda>0.267</Statistics_lambda>
+          <Statistics_entropy>0.14</Statistics_entropy>
+        </Statistics>
+      </Iteration_stat>
+    </Iteration>
+  </BlastOutput_iterations>
+</BlastOutput>
